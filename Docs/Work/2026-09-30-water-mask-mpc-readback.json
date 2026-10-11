@@ -1,0 +1,14 @@
+{
+  "asset": "/Game/Water/Materials/MPC_BoatInteriorMasks.MPC_BoatInteriorMasks",
+  "vectorCount": 416,
+  "scalarCount": 2,
+  "namesAndDefaultsMatch": true,
+  "uniqueNames": true,
+  "uniqueValidIds": true,
+  "disabled": true,
+  "activeShaderBinding": false,
+  "profileUploaded": false,
+  "pawnHookup": false,
+  "saveSucceeded": true,
+  "meaning": "Actual MCP asset creation/property readback; not gameplay mask acceptance"
+}

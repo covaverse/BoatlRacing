@@ -1,0 +1,18 @@
+(fn ApplyTailWaterSteering ()
+  (bind mesh (Variables|Default|GetStaticMesh))
+  (bind hub (Variables|Default|GetPropWorldPosition))
+  (bind com (Physics|GetCenterOfMass mesh))
+  (bind forcePoint (Math|Vector|MakeVector (.x hub) (.y hub) (.z com)))
+  (bind hullTransform (Transformation|GetWorldTransform mesh))
+  (bind steering (Variables|Default|GetSteeringDegrees))
+  (bind sideLocal (Math|Vector|MakeVector
+    (- (Math|Trig|Sin(Degrees) steering)) (Math|Trig|Cos(Degrees) steering) 0.0))
+  (bind sideWorld (Math|Transform|TransformDirection hullTransform sideLocal))
+  (bind velocity (Physics|GetPhysicsLinearVelocityAtPoint mesh forcePoint))
+  (bind force (Boat|Water|CalculateTailWaterForce
+    :PointVelocity velocity :WaterVelocity (Variables|Default|GetPropWaterVelocity)
+    :TailSideDirection sideWorld :Immersion (Variables|Default|GetPropImmersion)
+    :TrimDegrees (Variables|Default|GetTrimDegrees)
+    :DragCoefficient (Variables|Default|GetTailWaterDragCoefficient)
+    :MaximumForce 150000.0))
+  (Physics|AddForceAtLocation mesh force forcePoint))

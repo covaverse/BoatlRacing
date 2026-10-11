@@ -1,0 +1,1028 @@
+{
+  "date": "2026-09-30",
+  "engine": "5.8.3",
+  "testReport": "Saved/Automation/WaterCurrentGreen/index.json",
+  "nativeTests": {
+    "passed": 4,
+    "failed": 0
+  },
+  "timeBasis": "wall-clock Unix seconds, not fixed simulation-time telemetry; samples are batched game-thread reads",
+  "limitations": [
+    "Not calibrated turn radius or timed handling acceptance",
+    "No moving-hull water render mask implemented",
+    "No high-wave, river, shoreline or exclusion acceptance"
+  ],
+  "runs": [
+    {
+      "name": "immersed tail at rest",
+      "input": {
+        "throttle": 0,
+        "steering": -18,
+        "trim": -10
+      },
+      "samples": [
+        {
+          "wallTime": 1790772352.9946494,
+          "state": {
+            "Throttle": 0,
+            "DriveThrust": 0,
+            "ForwardSpeedKmh": 0.000003163665795040089,
+            "PropImmersion": 1,
+            "TrimDegrees": -10,
+            "SteeringDegrees": -18,
+            "PropWorldPosition": {
+              "x": 6531.035471213549,
+              "y": 1425.2767167015227,
+              "z": 394.40932565697256
+            },
+            "WaterSurfaceZ": 400,
+            "PropWaterVelocity": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "EngineVibrationEnvelope": 0
+          },
+          "transform": {
+            "location": {
+              "x": 6000.5770787169595,
+              "y": 1499.9828518660458,
+              "z": 381.5088598879589
+            },
+            "rotation": {
+              "pitch": -1.5507716495940822,
+              "yaw": -0.00026653491664774265,
+              "roll": -0.002840222531233394
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            }
+          }
+        },
+        {
+          "wallTime": 1790772417.5926032,
+          "state": {
+            "Throttle": 0,
+            "DriveThrust": 0,
+            "ForwardSpeedKmh": 8.003487716405459e-14,
+            "PropImmersion": 1,
+            "TrimDegrees": -10,
+            "SteeringDegrees": -18,
+            "PropWorldPosition": {
+              "x": 6531.063838000658,
+              "y": 1425.2792332504619,
+              "z": 391.74501419842886
+            },
+            "WaterSurfaceZ": 400,
+            "PropWaterVelocity": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "EngineVibrationEnvelope": 0
+          },
+          "transform": {
+            "location": {
+              "x": 6000.5972802304605,
+              "y": 1499.9839716915494,
+              "z": 379.2395510940339
+            },
+            "rotation": {
+              "pitch": -1.601768552985959,
+              "yaw": -0.0002748119886177847,
+              "roll": 0.0002490787038574502
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "coast with immersed tail left",
+      "input": {
+        "throttle": 0.4,
+        "coastAfterWorldSeconds": 12,
+        "coastSteering": 18,
+        "coastTrim": -10
+      },
+      "samples": [
+        {
+          "wallTime": 1790772528.6111271,
+          "state": {
+            "Throttle": 0.4,
+            "DriveThrust": 1.0831136054443076,
+            "ForwardSpeedKmh": 34.2753918391274,
+            "PropImmersion": 1,
+            "TrimDegrees": -7.774925160534467,
+            "SteeringDegrees": 0,
+            "PropWorldPosition": {
+              "x": 3864.793906637954,
+              "y": 1497.8928582034594,
+              "z": 393.8405965968918
+            },
+            "WaterSurfaceZ": 400,
+            "PropWaterVelocity": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "EngineVibrationEnvelope": 0
+          },
+          "transform": {
+            "location": {
+              "x": 3309.7482099888343,
+              "y": 1496.7046195888504,
+              "z": 374.1663761737037
+            },
+            "rotation": {
+              "pitch": -1.8028764979294467,
+              "yaw": 0.12265791317426815,
+              "roll": 0.00835695359963765
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            }
+          }
+        },
+        {
+          "wallTime": 1790772532.2333245,
+          "state": {
+            "Throttle": 0.4,
+            "DriveThrust": 0.7120263242604882,
+            "ForwardSpeedKmh": 46.06135656517788,
+            "PropImmersion": 0.6573864144851029,
+            "TrimDegrees": -8.39637486508389,
+            "SteeringDegrees": 0,
+            "PropWorldPosition": {
+              "x": -153.29137018142865,
+              "y": 1486.7681164207245,
+              "z": 397.3704543420596
+            },
+            "WaterSurfaceZ": 400,
+            "PropWaterVelocity": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "EngineVibrationEnvelope": 0
+          },
+          "transform": {
+            "location": {
+              "x": -731.0931889251966,
+              "y": 1484.3392622315744,
+              "z": 379.59532519045337
+            },
+            "rotation": {
+              "pitch": -1.6831721177988477,
+              "yaw": 0.24224851676223638,
+              "roll": 0.00017744859600034746
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            }
+          }
+        },
+        {
+          "wallTime": 1790772535.820308,
+          "state": {
+            "Throttle": 0,
+            "DriveThrust": 0,
+            "ForwardSpeedKmh": 37.22963555314919,
+            "PropImmersion": 1,
+            "TrimDegrees": -9.979665741693497,
+            "SteeringDegrees": 17.88594670004023,
+            "PropWorldPosition": {
+              "x": -4802.079380616085,
+              "y": 1518.4465455771328,
+              "z": 393.9533526469043
+            },
+            "WaterSurfaceZ": 400,
+            "PropWaterVelocity": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "EngineVibrationEnvelope": 0
+          },
+          "transform": {
+            "location": {
+              "x": -5344.682275267069,
+              "y": 1472.231779306513,
+              "z": 380.54734028554134
+            },
+            "rotation": {
+              "pitch": -1.5562043658200093,
+              "yaw": -3.0139984176465213,
+              "roll": -0.3150210870963409
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            }
+          }
+        },
+        {
+          "wallTime": 1790772539.1804128,
+          "state": {
+            "Throttle": 0,
+            "DriveThrust": 0,
+            "ForwardSpeedKmh": 14.747770053434875,
+            "PropImmersion": 1,
+            "TrimDegrees": -10,
+            "SteeringDegrees": 18,
+            "PropWorldPosition": {
+              "x": -7021.433434109459,
+              "y": 1686.06469622736,
+              "z": 392.74423579321865
+            },
+            "WaterSurfaceZ": 400,
+            "PropWaterVelocity": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "EngineVibrationEnvelope": 0
+          },
+          "transform": {
+            "location": {
+              "x": -7567.602786326513,
+              "y": 1712.1943865285887,
+              "z": 379.79844363194127
+            },
+            "rotation": {
+              "pitch": -1.5664164951688804,
+              "yaw": -10.622899377634896,
+              "roll": -0.052650164561327976
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            }
+          }
+        },
+        {
+          "wallTime": 1790772543.1768026,
+          "state": {
+            "Throttle": 0,
+            "DriveThrust": 0,
+            "ForwardSpeedKmh": 5.478450316161672,
+            "PropImmersion": 1,
+            "TrimDegrees": -10,
+            "SteeringDegrees": 18,
+            "PropWorldPosition": {
+              "x": -8033.551149497948,
+              "y": 1872.982090566041,
+              "z": 391.2424775479004
+            },
+            "WaterSurfaceZ": 400,
+            "PropWaterVelocity": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "EngineVibrationEnvelope": 0
+          },
+          "transform": {
+            "location": {
+              "x": -8572.047086471197,
+              "y": 1914.1971447282626,
+              "z": 378.92163945698684
+            },
+            "rotation": {
+              "pitch": -1.6205208211804911,
+              "yaw": -12.331785726540549,
+              "roll": -0.007976122644038222
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            }
+          }
+        },
+        {
+          "wallTime": 1790772547.592342,
+          "state": {
+            "Throttle": 0,
+            "DriveThrust": 0,
+            "ForwardSpeedKmh": 1.925813082142153,
+            "PropImmersion": 1,
+            "TrimDegrees": -10,
+            "SteeringDegrees": 18,
+            "PropWorldPosition": {
+              "x": -8439.390502354607,
+              "y": 1959.964330018439,
+              "z": 391.67214884924533
+            },
+            "WaterSurfaceZ": 400,
+            "PropWaterVelocity": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "EngineVibrationEnvelope": 0
+          },
+          "transform": {
+            "location": {
+              "x": -8973.859288161797,
+              "y": 2002.9586258496029,
+              "z": 379.14173143132604
+            },
+            "rotation": {
+              "pitch": -1.6000046464615136,
+              "yaw": -12.607755646582692,
+              "roll": -0.0006080512280845696
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            }
+          }
+        },
+        {
+          "wallTime": 1790772551.7070315,
+          "state": {
+            "Throttle": 0,
+            "DriveThrust": 0,
+            "ForwardSpeedKmh": 0.7400415146345081,
+            "PropImmersion": 1,
+            "TrimDegrees": -10,
+            "SteeringDegrees": 18,
+            "PropWorldPosition": {
+              "x": -8577.339560771188,
+              "y": 1990.5212151473843,
+              "z": 391.81397055678747
+            },
+            "WaterSurfaceZ": 400,
+            "PropWaterVelocity": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "EngineVibrationEnvelope": 0
+          },
+          "transform": {
+            "location": {
+              "x": -9111.870362788344,
+              "y": 2033.865880612003,
+              "z": 379.3086589379608
+            },
+            "rotation": {
+              "pitch": -1.6007998622663984,
+              "yaw": -12.643107070533745,
+              "roll": -0.000051135855528648194
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "coast with immersed tail right",
+      "input": {
+        "throttle": 0.4,
+        "coastAfterWorldSeconds": 12,
+        "coastSteering": -18,
+        "coastTrim": -10
+      },
+      "samples": [
+        {
+          "wallTime": 1790772629.1865592,
+          "state": {
+            "Throttle": 0.4,
+            "DriveThrust": 1.0831099643111683,
+            "ForwardSpeedKmh": 31.513682085764458,
+            "PropImmersion": 1,
+            "TrimDegrees": -9.185823445337382,
+            "SteeringDegrees": 0,
+            "PropWorldPosition": {
+              "x": 4140.297741010302,
+              "y": 1498.3168054898795,
+              "z": 392.61647150725935
+            },
+            "WaterSurfaceZ": 400,
+            "PropWaterVelocity": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "EngineVibrationEnvelope": 0
+          },
+          "transform": {
+            "location": {
+              "x": 3589.256322082165,
+              "y": 1497.2482742554218,
+              "z": 376.3484815322677
+            },
+            "rotation": {
+              "pitch": -1.5593206223694547,
+              "yaw": 0.11101169980891958,
+              "roll": 0.008924905598189465
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            }
+          }
+        },
+        {
+          "wallTime": 1790772634.901386,
+          "state": {
+            "Throttle": 0.4,
+            "DriveThrust": 0.738688329553427,
+            "ForwardSpeedKmh": 48.775303067476024,
+            "PropImmersion": 0.682002414575706,
+            "TrimDegrees": -8.91938926221449,
+            "SteeringDegrees": 0,
+            "PropWorldPosition": {
+              "x": -2498.5729426298262,
+              "y": 1476.594176705959,
+              "z": 397.2719903416972
+            },
+            "WaterSurfaceZ": 400,
+            "PropWaterVelocity": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "EngineVibrationEnvelope": 0
+          },
+          "transform": {
+            "location": {
+              "x": -3082.0522597642416,
+              "y": 1473.5031826014208,
+              "z": 380.654123417485
+            },
+            "rotation": {
+              "pitch": -1.5895598924635688,
+              "yaw": 0.30508190262517987,
+              "roll": -0.0005313267906785758
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            }
+          }
+        },
+        {
+          "wallTime": 1790772640.3525648,
+          "state": {
+            "Throttle": 0,
+            "DriveThrust": 0,
+            "ForwardSpeedKmh": 13.650976509528075,
+            "PropImmersion": 1,
+            "TrimDegrees": -10,
+            "SteeringDegrees": -18,
+            "PropWorldPosition": {
+              "x": -7129.179127433228,
+              "y": 1195.6247418930968,
+              "z": 391.8193376341935
+            },
+            "WaterSurfaceZ": 400,
+            "PropWaterVelocity": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "EngineVibrationEnvelope": 0
+          },
+          "transform": {
+            "location": {
+              "x": -7674.044768862655,
+              "y": 1160.6453432133874,
+              "z": 379.00701170930006
+            },
+            "rotation": {
+              "pitch": -1.5863363141740474,
+              "yaw": 11.564222848951262,
+              "roll": 0.045994230152653345
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            }
+          }
+        },
+        {
+          "wallTime": 1790772645.2110488,
+          "state": {
+            "Throttle": 0,
+            "DriveThrust": 0,
+            "ForwardSpeedKmh": 4.147632123599228,
+            "PropImmersion": 1,
+            "TrimDegrees": -10,
+            "SteeringDegrees": -18,
+            "PropWorldPosition": {
+              "x": -8173.093236120729,
+              "y": 983.3601202976669,
+              "z": 391.68324683593573
+            },
+            "WaterSurfaceZ": 400,
+            "PropWaterVelocity": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "EngineVibrationEnvelope": 0
+          },
+          "transform": {
+            "location": {
+              "x": -8707.885620393876,
+              "y": 935.237224438568,
+              "z": 379.10587584368614
+            },
+            "rotation": {
+              "pitch": -1.5966286052859566,
+              "yaw": 13.13971380334431,
+              "roll": 0.005465401818142845
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            }
+          }
+        },
+        {
+          "wallTime": 1790772650.981699,
+          "state": {
+            "Throttle": 0,
+            "DriveThrust": 0,
+            "ForwardSpeedKmh": 1.0716884227253574,
+            "PropImmersion": 1,
+            "TrimDegrees": -10,
+            "SteeringDegrees": -18,
+            "PropWorldPosition": {
+              "x": -8526.464277540985,
+              "y": 901.9771186653608,
+              "z": 391.84308182113006
+            },
+            "WaterSurfaceZ": 400,
+            "PropWaterVelocity": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "EngineVibrationEnvelope": 0
+          },
+          "transform": {
+            "location": {
+              "x": -9060.688341105113,
+              "y": 852.3247742173263,
+              "z": 379.3334780923651
+            },
+            "rotation": {
+              "pitch": -1.6001989059420791,
+              "yaw": 13.313608703928354,
+              "roll": 0.0004527101054804804
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            }
+          }
+        },
+        {
+          "wallTime": 1790772655.831708,
+          "state": {
+            "Throttle": 0,
+            "DriveThrust": 0,
+            "ForwardSpeedKmh": 0.3486839539984971,
+            "PropImmersion": 1,
+            "TrimDegrees": -10,
+            "SteeringDegrees": -18,
+            "PropWorldPosition": {
+              "x": -8610.768844311511,
+              "y": 882.1303500767389,
+              "z": 391.79422613529925
+            },
+            "WaterSurfaceZ": 400,
+            "PropWaterVelocity": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "EngineVibrationEnvelope": 0
+          },
+          "transform": {
+            "location": {
+              "x": -9144.421808677602,
+              "y": 832.5021438585582,
+              "z": 379.2825200376831
+            },
+            "rotation": {
+              "pitch": -1.6007106867717766,
+              "yaw": 13.325127186899527,
+              "roll": 0.0002356120199434636
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "coast with raised tail",
+      "input": {
+        "throttle": 0.4,
+        "coastAfterWorldSeconds": 12,
+        "coastSteering": 18,
+        "coastTrim": 0
+      },
+      "samples": [
+        {
+          "wallTime": 1790772720.6711183,
+          "state": {
+            "Throttle": 0.4,
+            "DriveThrust": 0.623330141817002,
+            "ForwardSpeedKmh": 34.670602498279706,
+            "PropImmersion": 0.575496878225664,
+            "TrimDegrees": -9.76890223669436,
+            "SteeringDegrees": 0,
+            "PropWorldPosition": {
+              "x": 3063.8908071779097,
+              "y": 1496.3025740785886,
+              "z": 397.69801248709734
+            },
+            "WaterSurfaceZ": 400,
+            "PropWaterVelocity": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "EngineVibrationEnvelope": 0
+          },
+          "transform": {
+            "location": {
+              "x": 2492.4153308314844,
+              "y": 1494.8565414710345,
+              "z": 382.9929880612657
+            },
+            "rotation": {
+              "pitch": -1.4373543232885027,
+              "yaw": 0.1460054045181078,
+              "roll": -0.0034759985537675675
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            }
+          }
+        },
+        {
+          "wallTime": 1790772725.4976494,
+          "state": {
+            "Throttle": 0.4,
+            "DriveThrust": 0.8979296804804333,
+            "ForwardSpeedKmh": 48.52631379643327,
+            "PropImmersion": 0.8290238057193449,
+            "TrimDegrees": -9.289992737539901,
+            "SteeringDegrees": 0,
+            "PropWorldPosition": {
+              "x": -2807.1417150984576,
+              "y": 1475.0503362551362,
+              "z": 396.6839047771226
+            },
+            "WaterSurfaceZ": 400,
+            "PropWaterVelocity": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "EngineVibrationEnvelope": 0
+          },
+          "transform": {
+            "location": {
+              "x": -3388.330579018104,
+              "y": 1471.8997875787998,
+              "z": 380.82457430159275
+            },
+            "rotation": {
+              "pitch": -1.5298794277733236,
+              "yaw": 0.3120216374337646,
+              "roll": 0.00016074037786982526
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            }
+          }
+        },
+        {
+          "wallTime": 1790772732.7273886,
+          "state": {
+            "Throttle": 0,
+            "DriveThrust": 0,
+            "ForwardSpeedKmh": 8.521835164639826,
+            "PropImmersion": 0,
+            "TrimDegrees": 0,
+            "SteeringDegrees": 18,
+            "PropWorldPosition": {
+              "x": -7813.973853728762,
+              "y": 1522.2061784245204,
+              "z": 433.58671720433114
+            },
+            "WaterSurfaceZ": 400,
+            "PropWaterVelocity": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "EngineVibrationEnvelope": 0
+          },
+          "transform": {
+            "location": {
+              "x": -8351.550328099924,
+              "y": 1442.999713773718,
+              "z": 378.74384330923885
+            },
+            "rotation": {
+              "pitch": -1.623403159852046,
+              "yaw": 0.33956828683741935,
+              "roll": 0.0007269958378342214
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            }
+          }
+        },
+        {
+          "wallTime": 1790772737.2359326,
+          "state": {
+            "Throttle": 0,
+            "DriveThrust": 0,
+            "ForwardSpeedKmh": 2.9041297407708795,
+            "PropImmersion": 0,
+            "TrimDegrees": 0,
+            "SteeringDegrees": 18,
+            "PropWorldPosition": {
+              "x": -8464.43567791448,
+              "y": 1518.350705858641,
+              "z": 434.16897455012776
+            },
+            "WaterSurfaceZ": 400,
+            "PropWaterVelocity": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "EngineVibrationEnvelope": 0
+          },
+          "transform": {
+            "location": {
+              "x": -9001.902644359841,
+              "y": 1439.1451598441124,
+              "z": 379.0867571549277
+            },
+            "rotation": {
+              "pitch": -1.6011067205743073,
+              "yaw": 0.33956624003723235,
+              "roll": 0.0005591701606306335
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            }
+          }
+        },
+        {
+          "wallTime": 1790772741.7867308,
+          "state": {
+            "Throttle": 0,
+            "DriveThrust": 0,
+            "ForwardSpeedKmh": 1.0053989974369577,
+            "PropImmersion": 0,
+            "TrimDegrees": 0,
+            "SteeringDegrees": 18,
+            "PropWorldPosition": {
+              "x": -8690.111450876992,
+              "y": 1517.0127520957578,
+              "z": 434.36670744162114
+            },
+            "WaterSurfaceZ": 400,
+            "PropWaterVelocity": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "EngineVibrationEnvelope": 0
+          },
+          "transform": {
+            "location": {
+              "x": -9225.68782456839,
+              "y": 1437.8187399230787,
+              "z": 379.2729065694211
+            },
+            "rotation": {
+              "pitch": -1.5972051313975155,
+              "yaw": 0.33956643318064034,
+              "roll": 0.0002785542139024208
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "small waves moderate throttle",
+      "input": {
+        "throttle": 0.2
+      },
+      "samples": [
+        {
+          "wallTime": 1790772910.8318336,
+          "state": {
+            "Throttle": 0.2,
+            "DriveThrust": 0.3584415584415584,
+            "ForwardSpeedKmh": 10.96518187451618,
+            "PropImmersion": 1,
+            "TrimDegrees": -6.594468489841481,
+            "SteeringDegrees": 0,
+            "PropWorldPosition": {
+              "x": 5335.668726589838,
+              "y": 1495.686433192246,
+              "z": 380.87474837294167
+            },
+            "WaterSurfaceZ": 387.84552001953125,
+            "PropWaterVelocity": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "EngineVibrationEnvelope": 0
+          },
+          "transform": {
+            "location": {
+              "x": 4780.968060841073,
+              "y": 1494.1965468027593,
+              "z": 361.4411071331633
+            },
+            "rotation": {
+              "pitch": -2.4183985592703166,
+              "yaw": -0.156508607109629,
+              "roll": 3.6577446882345956
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            }
+          }
+        },
+        {
+          "wallTime": 1790772915.5757344,
+          "state": {
+            "Throttle": 0.2,
+            "DriveThrust": 0.3584415584415584,
+            "ForwardSpeedKmh": 15.760156131244218,
+            "PropImmersion": 1,
+            "TrimDegrees": 1.9088669745536262,
+            "SteeringDegrees": 0,
+            "PropWorldPosition": {
+              "x": 3664.40014343982,
+              "y": 1493.7844977178838,
+              "z": 349.52654127787366
+            },
+            "WaterSurfaceZ": 361.94287109375,
+            "PropWaterVelocity": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "EngineVibrationEnvelope": 0
+          },
+          "transform": {
+            "location": {
+              "x": 3109.237254667636,
+              "y": 1494.328463699502,
+              "z": 314.96141944212184
+            },
+            "rotation": {
+              "pitch": -4.549425678689602,
+              "yaw": -0.0926344191649946,
+              "roll": 0.2081129106867455
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            }
+          }
+        },
+        {
+          "wallTime": 1790772922.2569253,
+          "state": {
+            "Throttle": 0.2,
+            "DriveThrust": 0.35293860145917383,
+            "ForwardSpeedKmh": 14.159808117997983,
+            "PropImmersion": 0.9846475475491445,
+            "TrimDegrees": -16.164183125350757,
+            "SteeringDegrees": 0,
+            "PropWorldPosition": {
+              "x": 1122.6862692032437,
+              "y": 1486.5293350359566,
+              "z": 381.27665028831905
+            },
+            "WaterSurfaceZ": 385.2152404785156,
+            "PropWaterVelocity": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "EngineVibrationEnvelope": 0
+          },
+          "transform": {
+            "location": {
+              "x": 583.4715603783001,
+              "y": 1485.1222221270464,
+              "z": 355.03581254110355
+            },
+            "rotation": {
+              "pitch": 2.5863026423950224,
+              "yaw": 0.14411716375226089,
+              "roll": 0.3381290285105028
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            }
+          }
+        },
+        {
+          "wallTime": 1790772928.7841198,
+          "state": {
+            "Throttle": 0.2,
+            "DriveThrust": 0.25005109287647054,
+            "ForwardSpeedKmh": 16.33207529673269,
+            "PropImmersion": 0.6976063098365302,
+            "TrimDegrees": -3.0116291468032097,
+            "SteeringDegrees": 0,
+            "PropWorldPosition": {
+              "x": -1766.313364042487,
+              "y": 1471.8972215439956,
+              "z": 393.1560164110445
+            },
+            "WaterSurfaceZ": 395.9464416503906,
+            "PropWaterVelocity": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "EngineVibrationEnvelope": 0
+          },
+          "transform": {
+            "location": {
+              "x": -2325.150723402736,
+              "y": 1468.0021888298904,
+              "z": 346.81794215424947
+            },
+            "rotation": {
+              "pitch": -0.9150282444022082,
+              "yaw": 0.2513198973879992,
+              "roll": 1.1570682607212002
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

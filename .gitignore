@@ -1,0 +1,9 @@
+Binaries/
+!Plugins/*/Binaries/
+*.pdb
+Intermediate/
+Saved/
+DerivedDataCache/
+.vs/
+*.sln
+__pycache__/

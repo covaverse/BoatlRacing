@@ -1,0 +1,4179 @@
+{
+  "asset": "/Game/Water/Materials/MPC_BoatInteriorMasks.MPC_BoatInteriorMasks",
+  "properties": {
+    "scalarParameters": [
+      {
+        "defaultValue": 0,
+        "parameterName": "BoatMask_Enable",
+        "id": "48E3EB0A-4044-D944-7A01-D2B11151CF13"
+      },
+      {
+        "defaultValue": 0,
+        "parameterName": "BoatMask_Debug",
+        "id": "A7652722-49F9-9653-34C7-1C96082B05F5"
+      }
+    ],
+    "vectorParameters": [
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_0_Origin",
+        "id": "E1FC0E02-4F63-3C28-0880-A5AAD0009C22"
+      },
+      {
+        "defaultValue": {
+          "r": 1,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_0_InverseX",
+        "id": "83769B36-438F-A11A-7661-13920DA9B9A2"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 1,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_0_InverseY",
+        "id": "B0459E42-4F54-3183-0FE7-5FA5AAC8FF1B"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 1,
+          "a": 0
+        },
+        "parameterName": "BoatMask_0_InverseZ",
+        "id": "03B83A6C-4CEA-E426-812D-F89A84D43DFE"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_0_S0_Bounds",
+        "id": "0EC2F21D-4035-7462-E65D-47B90377284F"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_0_S0_Widths",
+        "id": "B11CD93D-4FC7-751D-EED1-DE94991D7C68"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_0_S0_K0",
+        "id": "21E40B39-473D-9E40-9724-DCAE1E6E1182"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_0_S0_K1",
+        "id": "71188478-46CB-5444-1208-2A9C31FE3959"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_0_S0_K2",
+        "id": "8FFADAA7-4390-79BE-FC77-438327C78DA0"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_0_S0_K3",
+        "id": "6F63861C-4FEB-591E-3330-C5B5CD9E19ED"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_0_S1_Bounds",
+        "id": "404502D4-40E6-6062-78FB-ECBCAFC91C9F"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_0_S1_Widths",
+        "id": "626030F2-4AA6-2400-F40A-91BEB7E43E04"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_0_S1_K0",
+        "id": "826555D7-4AB6-D8C5-29B5-0DAB123E2EE5"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_0_S1_K1",
+        "id": "C408185A-4815-9A19-0276-14A1F3CD430A"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_0_S1_K2",
+        "id": "0DBADBFA-4E16-7C99-1C80-FE8DA2021588"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_0_S1_K3",
+        "id": "170D9EF2-4236-86CB-6805-AAA0D8DEC0FF"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_0_S2_Bounds",
+        "id": "C9CB9547-4FFA-5B27-3110-C1B709CAF6A2"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_0_S2_Widths",
+        "id": "85B6E822-4270-FC38-C0D4-D2A7EE8A6CBC"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_0_S2_K0",
+        "id": "A5C1BF46-419D-61C4-1220-5CA0638DB527"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_0_S2_K1",
+        "id": "8C6F5708-4555-BFD6-23B7-5E82DF7F2AF8"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_0_S2_K2",
+        "id": "68FE0EAE-46E4-91A4-0150-E197DBE73B1B"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_0_S2_K3",
+        "id": "14A4ECCE-467A-FB96-A97A-B69A49CCC773"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_0_S3_Bounds",
+        "id": "D8E3360D-4129-C59A-72F0-FC8349356340"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_0_S3_Widths",
+        "id": "ADBAFDA6-4A3C-FD94-50D8-59AA539CD48A"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_0_S3_K0",
+        "id": "A6426104-40CB-C6F9-90CA-6882ED590039"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_0_S3_K1",
+        "id": "42B5000E-4019-E002-1F06-8C851EE05F6A"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_0_S3_K2",
+        "id": "5DA6E77C-4024-D029-5DF8-C99864DF50C9"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_0_S3_K3",
+        "id": "40538DCD-4E19-FC27-E03C-ECAE69CEC3D3"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_0_S4_Bounds",
+        "id": "85DC861F-4425-9D38-A746-20A8ED06DA90"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_0_S4_Widths",
+        "id": "3FFB36E6-43F3-1BC3-5AB7-A7A8C35C3A19"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_0_S4_K0",
+        "id": "A4D811DB-4EC5-0EC6-C6B8-B5B73B0B0084"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_0_S4_K1",
+        "id": "636E921E-4678-6C00-C24E-78BABDE5EBDE"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_0_S4_K2",
+        "id": "0F2C5C1B-431C-9A30-534D-1B9A539FFFE9"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_0_S4_K3",
+        "id": "1DEB072E-4AD1-1828-62BD-7782577D5BE0"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_0_S5_Bounds",
+        "id": "39FFBC2F-48A5-AC0F-6B6F-8EAAD1CC64EB"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_0_S5_Widths",
+        "id": "8CA060F1-4E1D-2296-869C-CCA403F6E958"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_0_S5_K0",
+        "id": "E5E96C8D-48A7-4984-D0F6-54B6B810A582"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_0_S5_K1",
+        "id": "3014B2A2-4063-C4DB-29D7-8CB80F208A44"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_0_S5_K2",
+        "id": "E50038B8-4963-B836-32DB-C2914D9BAC8E"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_0_S5_K3",
+        "id": "021E54A6-4CB6-AB1D-BA56-E9B3CCDF1566"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_0_S6_Bounds",
+        "id": "14222421-4FEF-166E-DEC7-E589FD54884A"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_0_S6_Widths",
+        "id": "E9B35457-485A-80F5-73AF-41A5891D4CF6"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_0_S6_K0",
+        "id": "B14AB507-432F-D799-0297-A1B61C6A1EF2"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_0_S6_K1",
+        "id": "6BA1A61F-43C9-C280-A39A-C8BB04DC1F6E"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_0_S6_K2",
+        "id": "B4512452-45DF-E59B-F82B-C1ABE787CD02"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_0_S6_K3",
+        "id": "3F7FA725-4B6D-894E-7B72-54B93B4A748E"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_0_S7_Bounds",
+        "id": "135B29D3-4E59-ED09-E7CD-10A13B6006EA"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_0_S7_Widths",
+        "id": "88DC47B4-4F66-FFFA-FC79-458ACD3C42ED"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_0_S7_K0",
+        "id": "02A99921-4710-07F9-2DB1-67AE83996468"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_0_S7_K1",
+        "id": "F7A9B209-439F-2AB0-9979-C79E8CED4ED2"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_0_S7_K2",
+        "id": "B3AE49DC-4C64-7EBC-103F-09A8401F67F3"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_0_S7_K3",
+        "id": "32F45205-4527-396B-8FB3-5FB86EF98068"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_1_Origin",
+        "id": "E05CA802-454F-98F2-00AD-D49713FAC2D4"
+      },
+      {
+        "defaultValue": {
+          "r": 1,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_1_InverseX",
+        "id": "78666E40-4901-E18F-D6AA-1D9FF1C55428"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 1,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_1_InverseY",
+        "id": "08AB152B-4CE4-F885-EEF8-AFAD703F2C7B"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 1,
+          "a": 0
+        },
+        "parameterName": "BoatMask_1_InverseZ",
+        "id": "B7ADC13C-4ED9-20F1-96AD-9E8CBFA61032"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_1_S0_Bounds",
+        "id": "A7B7525B-406B-CDB9-8E2C-B79832F2F7C3"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_1_S0_Widths",
+        "id": "51F92601-4153-736B-5C17-319B7B7861AF"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_1_S0_K0",
+        "id": "602E1834-4755-20CA-221E-CA8026FC2958"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_1_S0_K1",
+        "id": "21CBA033-4EF3-3005-0F04-509E864A7DD0"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_1_S0_K2",
+        "id": "6C94CE57-4063-E024-1DD0-A896C3967CC2"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_1_S0_K3",
+        "id": "2B6FBD39-483A-D292-597F-E99856564E42"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_1_S1_Bounds",
+        "id": "24863FE9-406E-1D72-20CE-8D9EA31095F2"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_1_S1_Widths",
+        "id": "8604F5DB-4470-9775-42C4-C0B4DBAC912A"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_1_S1_K0",
+        "id": "6967422D-4FD5-C191-D1CF-D182425E2FB3"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_1_S1_K1",
+        "id": "AF56FA5C-4131-D066-7B7A-FA828063B52B"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_1_S1_K2",
+        "id": "D7284CD3-4ECE-1ED0-6B57-7B801D0F9EE1"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_1_S1_K3",
+        "id": "DCF7D707-4300-2BE3-3EBF-DB864BAE68CD"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_1_S2_Bounds",
+        "id": "59C98932-4F47-4E13-3F25-CFB7EE564EA9"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_1_S2_Widths",
+        "id": "49C2C0EA-4C65-E20A-C351-D3B83366CF91"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_1_S2_K0",
+        "id": "70128526-4DA7-3761-105D-C7806CDD735A"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_1_S2_K1",
+        "id": "93FE314E-4606-2BE5-8123-FD96DF1BD882"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_1_S2_K2",
+        "id": "4255E3A8-4FF7-6D8C-CEF6-BC9792DCBDDA"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_1_S2_K3",
+        "id": "FCC50388-4F19-A3C4-8E1E-90ACC77255FE"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_1_S3_Bounds",
+        "id": "99E2F8E1-4882-D571-DA47-149064F0055F"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_1_S3_Widths",
+        "id": "32F0FE3E-48CF-2389-C5A5-28AB98C3B74F"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_1_S3_K0",
+        "id": "14F7026D-4AC5-13CB-463C-CEB0C7AFB4C7"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_1_S3_K1",
+        "id": "0D29ACEF-4CB9-FFCB-D687-7AB9ED785836"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_1_S3_K2",
+        "id": "A0B20092-4AAF-D836-85DB-D3A235D91C8F"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_1_S3_K3",
+        "id": "340A86B1-4333-1002-47F5-01BACC4543E4"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_1_S4_Bounds",
+        "id": "6A155DE7-43B6-4398-896A-E2A69D422B4A"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_1_S4_Widths",
+        "id": "B9A8919B-4129-F479-389D-10BE7F40C1D6"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_1_S4_K0",
+        "id": "0711C794-4F54-B30E-1C99-D380D3B820A0"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_1_S4_K1",
+        "id": "AB827F2C-4627-F39D-0CFD-3580DA98A19B"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_1_S4_K2",
+        "id": "8F5F3491-4D90-F91A-2C97-5FBB2D0473D0"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_1_S4_K3",
+        "id": "59888555-4935-D6E6-4B71-F5AEE7EFF4B5"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_1_S5_Bounds",
+        "id": "53781036-464D-8851-B540-909D21919365"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_1_S5_Widths",
+        "id": "979F28BB-4DA2-6E2E-9CBE-C286DDD92787"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_1_S5_K0",
+        "id": "06AF85E3-45BF-616D-CA1B-BD87874717E7"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_1_S5_K1",
+        "id": "24C4A00E-40FB-0F74-1784-4C8123F70CA8"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_1_S5_K2",
+        "id": "258ABC1A-4B29-121C-DEF3-719B53B1861D"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_1_S5_K3",
+        "id": "91005FA7-4784-0D5C-511F-73A3B5A6916E"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_1_S6_Bounds",
+        "id": "95A5E31B-4D94-A7B9-2CFC-86B3525D82DB"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_1_S6_Widths",
+        "id": "8656BB51-466A-3A99-6699-EBAE8B1BD5D0"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_1_S6_K0",
+        "id": "A07CE4F9-411C-FD14-3661-65A0219481FB"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_1_S6_K1",
+        "id": "ED7B845E-4C6C-DD57-04AD-22A637285967"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_1_S6_K2",
+        "id": "FDEC16DB-4EF9-824C-EA91-3F83A10A54A4"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_1_S6_K3",
+        "id": "8029C2BE-4574-A457-310A-2F9E6912130B"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_1_S7_Bounds",
+        "id": "36DC6F72-47FE-A68A-A63D-84A2C83D3240"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_1_S7_Widths",
+        "id": "3E244765-4EC9-4A68-7463-6DA1520E4D1A"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_1_S7_K0",
+        "id": "DAC1E1EA-4F7C-8A65-FA67-D796DDD76DCB"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_1_S7_K1",
+        "id": "22982B9C-4750-AB7D-474D-FC96393ADA15"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_1_S7_K2",
+        "id": "5C382C9D-429C-6E49-E115-118139664E9D"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_1_S7_K3",
+        "id": "0C480CF3-4F45-B156-FC29-4BB21F35112F"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_2_Origin",
+        "id": "C4082726-4F07-AEDB-2937-09B58748360E"
+      },
+      {
+        "defaultValue": {
+          "r": 1,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_2_InverseX",
+        "id": "5B5D0DFA-4DFF-FE56-7E20-BBB14D57FC15"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 1,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_2_InverseY",
+        "id": "2165D92A-4739-C024-A6DE-E7A2CF9EA976"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 1,
+          "a": 0
+        },
+        "parameterName": "BoatMask_2_InverseZ",
+        "id": "57CD39A3-4B84-B3F8-B335-4D970012A4F5"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_2_S0_Bounds",
+        "id": "36ED3F37-421A-B132-6097-78A6A64AB815"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_2_S0_Widths",
+        "id": "4648013C-4C8F-B82E-C9B9-96ABD9B6AC19"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_2_S0_K0",
+        "id": "824ED6F1-41D2-680B-F1CB-F1BA981B0801"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_2_S0_K1",
+        "id": "AAA188D4-4C97-9FBE-E1BA-92A8227675CE"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_2_S0_K2",
+        "id": "4242B855-4B5D-B839-FB9C-DBA9BAD6BCEA"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_2_S0_K3",
+        "id": "561B66D7-4D20-72D8-6636-9AA64FEE7990"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_2_S1_Bounds",
+        "id": "89C88B00-44A3-CC45-ED4D-9C8939BE3340"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_2_S1_Widths",
+        "id": "F7C538AF-4088-0C27-1B36-9B894CE3C14A"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_2_S1_K0",
+        "id": "0F86D962-4B78-8CC4-922E-3ABC51968FC6"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_2_S1_K1",
+        "id": "A8D70497-47A5-DCFA-4CDD-DE8962773C5B"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_2_S1_K2",
+        "id": "514C4F8C-416F-99B2-D975-57AE3A64BA44"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_2_S1_K3",
+        "id": "03FD401E-4D4F-DCDD-88B8-FD8164E70888"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_2_S2_Bounds",
+        "id": "98C35D02-4E09-AAD6-297A-4D9F1022C2F7"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_2_S2_Widths",
+        "id": "27DC6D83-4DEA-5429-5A05-79A1DE5D2338"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_2_S2_K0",
+        "id": "1725D4EE-4246-8D7B-FB58-358322229269"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_2_S2_K1",
+        "id": "2219BB46-4212-EE16-0506-539DEF1E8D19"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_2_S2_K2",
+        "id": "5E1027C2-40F2-B5E9-B9A2-2999242F47A0"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_2_S2_K3",
+        "id": "73ED20F3-45D1-E14E-4D48-23995029B97C"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_2_S3_Bounds",
+        "id": "181665AD-4E51-7243-68FC-36BA66F7ED6B"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_2_S3_Widths",
+        "id": "D57C20ED-468F-8712-677E-42BEC18653F3"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_2_S3_K0",
+        "id": "9DE4D7B1-48A4-83DE-2279-5FA524D56FC6"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_2_S3_K1",
+        "id": "77160E07-45DE-3A97-2641-318183E58172"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_2_S3_K2",
+        "id": "84F78876-4046-FB08-F0FD-4E9C6B55ABC3"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_2_S3_K3",
+        "id": "7CD0C307-4DD1-3C34-A358-9D8D1AE0F7D1"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_2_S4_Bounds",
+        "id": "7A4E5767-4B84-85FD-51EA-D58BDD3199D5"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_2_S4_Widths",
+        "id": "6ADE547D-48A3-47DD-EBBE-30967E682B56"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_2_S4_K0",
+        "id": "8C23B8DA-421E-FDD9-B138-98A0A3CE1981"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_2_S4_K1",
+        "id": "C26A526E-4CEE-D3BE-DD76-50B4687E3260"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_2_S4_K2",
+        "id": "50C9902C-4C35-8F67-9C43-6699B0943C0A"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_2_S4_K3",
+        "id": "F3AEC9C6-4941-3C7A-4FEA-CAA15CAB8590"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_2_S5_Bounds",
+        "id": "A8F93760-4F76-02C2-AC14-CCA5584975D9"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_2_S5_Widths",
+        "id": "D4E605DC-40E2-F7D1-2A94-C7AC7A4FEAFA"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_2_S5_K0",
+        "id": "35DA2592-41BC-9301-9B9C-34AEE3138046"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_2_S5_K1",
+        "id": "1F70BED3-46F4-CB3B-94E5-4EA6284C0F11"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_2_S5_K2",
+        "id": "AC688C82-476E-74AF-D720-129B8797F890"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_2_S5_K3",
+        "id": "57A14F11-42D0-798D-F5FD-26AAFEA36BD1"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_2_S6_Bounds",
+        "id": "0CBE60FB-4542-34E9-B057-4DA73C41827D"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_2_S6_Widths",
+        "id": "FAC4ECB7-4915-D9FA-6E19-2F8CB1854BBB"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_2_S6_K0",
+        "id": "59657B1A-44F8-AE89-B92F-61B9206DCDAF"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_2_S6_K1",
+        "id": "A92130BF-41D9-0CB6-886F-25B0BFB3914E"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_2_S6_K2",
+        "id": "FF273786-4FBC-CAF2-F710-76A95880BC41"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_2_S6_K3",
+        "id": "76BCC1A9-4835-D709-D617-299D014851EC"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_2_S7_Bounds",
+        "id": "3F5E1B99-4702-0D07-996F-05AFA0C12F63"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_2_S7_Widths",
+        "id": "7890D782-485C-D6B0-CBF4-F789ACED0686"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_2_S7_K0",
+        "id": "C9C022E0-44DE-2F0F-F5C8-14A29144E272"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_2_S7_K1",
+        "id": "8C49E595-4DB0-D857-3B1E-8AABA869358A"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_2_S7_K2",
+        "id": "925D74DF-47D1-956C-5529-00884AD997DA"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_2_S7_K3",
+        "id": "582CB11D-4049-326D-FD9F-8C9F8CC83AF6"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_3_Origin",
+        "id": "050B9D28-4248-23BC-FC81-AAB0475F3F28"
+      },
+      {
+        "defaultValue": {
+          "r": 1,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_3_InverseX",
+        "id": "123D6CDD-4749-29C0-670A-D982582BE09B"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 1,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_3_InverseY",
+        "id": "DA41032F-48A2-083E-B379-40B9E10841CA"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 1,
+          "a": 0
+        },
+        "parameterName": "BoatMask_3_InverseZ",
+        "id": "425F2505-4BC9-0221-B5D6-1B986A83DCB6"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_3_S0_Bounds",
+        "id": "F8B89AF8-4B45-9EA4-E203-C699C68A8E04"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_3_S0_Widths",
+        "id": "5198DBBD-49F6-E63D-7C46-878B4E0191F9"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_3_S0_K0",
+        "id": "0E62ABBE-48BD-8F1D-472F-729B56FC08E5"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_3_S0_K1",
+        "id": "514C43F4-40D1-8E95-DA93-DDA9AF6500DB"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_3_S0_K2",
+        "id": "06C7E1CB-4260-6F62-A59E-4C8BE6C8A14A"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_3_S0_K3",
+        "id": "159BDC70-4B4C-FF04-0D79-2B81521510D0"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_3_S1_Bounds",
+        "id": "D0F590C6-4CFE-70D9-732B-DEAA8356CAF2"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_3_S1_Widths",
+        "id": "9122731D-40A9-4569-CA15-B6AEF9AC63F2"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_3_S1_K0",
+        "id": "22B67BCF-4531-DE80-E397-BC9FD41CC61B"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_3_S1_K1",
+        "id": "7AA61BBC-4694-3306-086D-BEA9C06BC9EB"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_3_S1_K2",
+        "id": "F864CA67-4A5A-962B-6DFE-53B548620963"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_3_S1_K3",
+        "id": "3C4E841B-46D4-E2DB-D10E-C2B9265233F5"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_3_S2_Bounds",
+        "id": "2AADD328-4F8A-7E8F-F5D4-BCBD2E9095BC"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_3_S2_Widths",
+        "id": "C54563D1-4969-2FD8-B0C7-BCA7F52FCA92"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_3_S2_K0",
+        "id": "F7494606-4EB7-F9D7-C14C-15A106EDC8B4"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_3_S2_K1",
+        "id": "AA5881B8-46DB-6A13-786E-369C622ADC3B"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_3_S2_K2",
+        "id": "EF04BF59-4161-F1C9-27B0-42953C052BAC"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_3_S2_K3",
+        "id": "D2D0CCF2-495C-677C-0F8D-2CB491C81BD4"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_3_S3_Bounds",
+        "id": "ECBA744D-4212-E7FB-FD4A-11A0749662CC"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_3_S3_Widths",
+        "id": "2D5C210D-4D93-6D33-2A3C-B39E496A7653"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_3_S3_K0",
+        "id": "A55DFCAC-4CD2-111D-2F97-239EF2B4D517"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_3_S3_K1",
+        "id": "6620418F-4455-09B9-6674-8CB7728C3825"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_3_S3_K2",
+        "id": "37304D49-4CEB-4C7E-C84F-7FAEAF108CAB"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_3_S3_K3",
+        "id": "6FA786CF-4EE7-029C-4FE0-D19D7A0AE591"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_3_S4_Bounds",
+        "id": "CD14E0E7-416C-5027-2E62-30811B06BFD9"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_3_S4_Widths",
+        "id": "580C0B14-49A4-56EF-DDF7-54AB669CB2D5"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_3_S4_K0",
+        "id": "A5A22956-4777-9EF4-2886-4E81E724D834"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_3_S4_K1",
+        "id": "F6117DA1-49F2-D15C-6119-9CA34BCC5304"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_3_S4_K2",
+        "id": "FE061C0F-4CF3-B195-E46F-3D80B89B5631"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_3_S4_K3",
+        "id": "CC49FED7-47C9-B8A9-7C8D-E8BCFD64151C"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_3_S5_Bounds",
+        "id": "AD847F37-4D0C-0931-1008-899078B6C110"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_3_S5_Widths",
+        "id": "7F9A37AD-44EE-822C-0850-9382353206F8"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_3_S5_K0",
+        "id": "86BB4067-497F-865C-848B-32A2ECE0E301"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_3_S5_K1",
+        "id": "201F47C3-4940-60A4-E02F-4EAEC46BD3F8"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_3_S5_K2",
+        "id": "AD2F861F-485B-D09B-2237-B69CF9365E4B"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_3_S5_K3",
+        "id": "81422757-47ED-827E-F247-2DAEC5C31C16"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_3_S6_Bounds",
+        "id": "B29F0D50-4762-5160-00AF-37BB25A69CB2"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_3_S6_Widths",
+        "id": "A269D527-48E1-BA1F-218A-3AA8D60346E6"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_3_S6_K0",
+        "id": "95C95C86-4D0E-AEBF-F50E-2095DEA3AFA0"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_3_S6_K1",
+        "id": "5077608B-442C-0036-4A23-8F9E84044172"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_3_S6_K2",
+        "id": "A22E574B-4CC1-BA50-8BDC-28BF03EF6563"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_3_S6_K3",
+        "id": "7504E9EA-4328-F767-B734-CA8F9068B23C"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_3_S7_Bounds",
+        "id": "EC09D719-40E7-E40F-9723-BB8FF3B15EB8"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_3_S7_Widths",
+        "id": "3C8D248E-449C-942F-0A38-8DAA9B2D07CA"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_3_S7_K0",
+        "id": "5672BC91-477C-673B-0B91-4291C4A653FF"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_3_S7_K1",
+        "id": "4D8729EC-4104-912E-E02E-15965F7DF7C4"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_3_S7_K2",
+        "id": "6B0399A7-40F0-A625-4516-B8922BA2FF8D"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_3_S7_K3",
+        "id": "712AAA3C-4193-C549-3DCB-C18988DEA87F"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_4_Origin",
+        "id": "17491B42-4B49-5593-F4A2-32ABD3632C4F"
+      },
+      {
+        "defaultValue": {
+          "r": 1,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_4_InverseX",
+        "id": "E7756327-4739-6601-62B9-00AAABE93923"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 1,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_4_InverseY",
+        "id": "C38535AC-49E9-3776-32B9-16B9ED1F6928"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 1,
+          "a": 0
+        },
+        "parameterName": "BoatMask_4_InverseZ",
+        "id": "15BBB41D-4F22-2087-C802-DCA79D3DC861"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_4_S0_Bounds",
+        "id": "E83CAC6C-4110-5E9C-84DB-C8A6B5626436"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_4_S0_Widths",
+        "id": "E8E2F105-46F4-1793-98EA-E4ABB8717CE5"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_4_S0_K0",
+        "id": "8506BDB6-4616-CA03-EB90-52B4B98CDCE3"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_4_S0_K1",
+        "id": "692DFEC6-412F-721A-1B0F-38B19E37E88D"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_4_S0_K2",
+        "id": "0AA59161-4C3F-069C-09E7-0DAEFC3C7B6F"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_4_S0_K3",
+        "id": "8106CC88-432D-5A0B-4DDB-68A5185FCD90"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_4_S1_Bounds",
+        "id": "0A7E7742-4262-CBAC-B315-50929BDD2255"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_4_S1_Widths",
+        "id": "32046A1C-434A-C29D-07D8-71AB0743DDF7"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_4_S1_K0",
+        "id": "0557352F-483A-96D7-28C7-DFB70DD221B9"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_4_S1_K1",
+        "id": "94E9C97A-40B8-05D3-17D7-458B9AE8E3F2"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_4_S1_K2",
+        "id": "EA7B17CF-4DF5-57CC-E755-998B606B5949"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_4_S1_K3",
+        "id": "5538B239-439B-C0BC-8C3D-498A8249A427"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_4_S2_Bounds",
+        "id": "6313EBB0-4EA9-FE6A-796F-C79099D47B78"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_4_S2_Widths",
+        "id": "7894D0F2-42B0-F04C-74BE-02BCC0AE9E6D"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_4_S2_K0",
+        "id": "BC69132E-42F0-8A63-762A-B6BD6F84962A"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_4_S2_K1",
+        "id": "E852D5BA-4F03-B742-E1D4-64BA146C5801"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_4_S2_K2",
+        "id": "A220624B-4729-1D25-431E-39B1F01A99B3"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_4_S2_K3",
+        "id": "A9ED0592-4132-2C0A-B746-45AF758278A1"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_4_S3_Bounds",
+        "id": "A4179C7A-4D78-4EA9-670C-33B4C809AF67"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_4_S3_Widths",
+        "id": "D2D25FEA-4021-16B5-40CE-FFAC2134363D"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_4_S3_K0",
+        "id": "B81B8783-4F5E-C035-F5CB-778CAC70A23E"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_4_S3_K1",
+        "id": "71B3E35F-4F2F-47C1-D46F-BD9649A4828E"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_4_S3_K2",
+        "id": "65EFEE00-46F2-6865-A2F6-E2854E09FF7E"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_4_S3_K3",
+        "id": "E182D749-4D70-86FC-9B9F-99A13D769DA6"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_4_S4_Bounds",
+        "id": "D87F2B4D-457E-8CF6-03F2-5ABA2742212F"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_4_S4_Widths",
+        "id": "1BBEA240-4F25-D64E-194F-3B9814CEB6CD"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_4_S4_K0",
+        "id": "14D42ABE-4176-8954-9447-B9AE89330C5D"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_4_S4_K1",
+        "id": "F18538E1-4DEB-D267-3227-B7A117F242F7"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_4_S4_K2",
+        "id": "CEE5C145-44F8-9352-6124-53A5C4E5A861"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_4_S4_K3",
+        "id": "FB17DFB3-4674-BAE0-7012-57A4D2BBE35A"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_4_S5_Bounds",
+        "id": "64AACF16-4039-86BA-BFAF-38904B283F90"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_4_S5_Widths",
+        "id": "F7DEA219-4929-776C-E892-1FB79202CA73"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_4_S5_K0",
+        "id": "B04099FE-4590-F567-29FD-6D80FCDD18DE"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_4_S5_K1",
+        "id": "8CE2C84C-48EC-CA63-4C1D-67A04D4175D5"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_4_S5_K2",
+        "id": "5E353837-4532-A448-E310-088965607F9F"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_4_S5_K3",
+        "id": "9412F31C-49F8-1F7C-E6E9-27A712772CE8"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_4_S6_Bounds",
+        "id": "25F0DB53-4FF5-1A88-BD62-57AD6CEEBBCF"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_4_S6_Widths",
+        "id": "B2A4C8F2-4172-ABCE-3B7C-71A477FA7656"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_4_S6_K0",
+        "id": "B93DBD64-4533-CEC9-761B-E1B04001B849"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_4_S6_K1",
+        "id": "FBD638DE-4CBB-665E-A61C-C4B975B5691A"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_4_S6_K2",
+        "id": "D55EFBD2-488A-9670-8EE2-AE83BBB9606D"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_4_S6_K3",
+        "id": "71D52B4B-4575-3026-4D6D-A3A8E300D924"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_4_S7_Bounds",
+        "id": "7C9B58FA-4C0F-7AE1-EEE9-5A974A8DDF61"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_4_S7_Widths",
+        "id": "2F5CE27C-4944-F414-8485-59A1FF8ADE27"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_4_S7_K0",
+        "id": "A93CE74C-40FA-4106-B3EB-FABF1CACCD36"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_4_S7_K1",
+        "id": "FCCFC7D2-41DE-A572-0B53-AF935559B9B5"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_4_S7_K2",
+        "id": "EC5F6BA7-4C8F-585C-63C5-168103CD8198"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_4_S7_K3",
+        "id": "C0F710AB-4FB4-E25F-C097-4C9084438C15"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_5_Origin",
+        "id": "BC184819-4DE6-836A-A396-D8A6E7775311"
+      },
+      {
+        "defaultValue": {
+          "r": 1,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_5_InverseX",
+        "id": "D71F92FD-4064-3394-5EA7-C1B1D3AEF0F0"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 1,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_5_InverseY",
+        "id": "7B67B56E-4BFD-7F11-7D44-4CB9D5779FBF"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 1,
+          "a": 0
+        },
+        "parameterName": "BoatMask_5_InverseZ",
+        "id": "00B657E5-44A3-DC53-BC1D-2EA0D288A295"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_5_S0_Bounds",
+        "id": "46D798C3-4B1F-AC5B-50B5-7499F2AA924B"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_5_S0_Widths",
+        "id": "7D40BCD3-4643-248C-A57C-1CACAB875844"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_5_S0_K0",
+        "id": "11A71A52-4DA1-478A-84F5-66BE91685299"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_5_S0_K1",
+        "id": "AA3B06F9-4781-5E52-B9A3-70B2BF6F5619"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_5_S0_K2",
+        "id": "A2E96EC6-4D25-CDC2-ADF1-00BEE5C44151"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_5_S0_K3",
+        "id": "9F7C0C83-40DD-71C9-4BA4-D080F461AC6B"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_5_S1_Bounds",
+        "id": "8D086170-4917-7A3A-4847-039139C14B87"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_5_S1_Widths",
+        "id": "3F7E57A9-4F5B-1F5E-A4BE-ABA7EDD60506"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_5_S1_K0",
+        "id": "0E1DD0A6-4E72-CA7D-B4A9-2EBDC3BED10C"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_5_S1_K1",
+        "id": "02B561E8-4568-34DC-0F6C-B58BECC1BFF2"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_5_S1_K2",
+        "id": "2FF902B1-48B7-72F7-CB8B-FDAC07E0E3AB"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_5_S1_K3",
+        "id": "B504805F-41D1-9DE2-B73F-09AC806A8F16"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_5_S2_Bounds",
+        "id": "753DF2F7-4AE1-BD28-964A-DBAC7F95FCD9"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_5_S2_Widths",
+        "id": "2325E855-46B7-9B05-654B-5F81D5E56B38"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_5_S2_K0",
+        "id": "C8B1D8A8-454A-0EFF-B59D-77A790063CE9"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_5_S2_K1",
+        "id": "7A0D0BC8-4DA8-48A0-2973-74861EBDE8DA"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_5_S2_K2",
+        "id": "0DD6234E-462D-65E3-DE51-68A73EA088DF"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_5_S2_K3",
+        "id": "95148C9B-4CD6-D823-E276-BCBE99E288CB"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_5_S3_Bounds",
+        "id": "8DC9947A-4BA6-C287-905D-379289FC6099"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_5_S3_Widths",
+        "id": "BA60DC70-40DE-5032-0786-80AA9C036EDD"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_5_S3_K0",
+        "id": "51AFEE5F-427E-71DE-5726-A3A58C394B66"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_5_S3_K1",
+        "id": "15B8BD9D-4454-5572-0363-55B7CE4986EF"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_5_S3_K2",
+        "id": "07E0237B-40D8-F875-8808-F5BE33733E36"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_5_S3_K3",
+        "id": "09937A11-4B8A-96AC-7AA4-DEA97D615CC0"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_5_S4_Bounds",
+        "id": "AFC532BE-476B-B07E-7912-AC8E082054EE"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_5_S4_Widths",
+        "id": "55DFBB2C-4A76-D014-4D69-8C9F7EF99B76"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_5_S4_K0",
+        "id": "6322270C-4B31-CC76-E551-9D82008377E4"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_5_S4_K1",
+        "id": "6CF0A20F-4CF6-F6C8-D40F-9FBEB3B4417C"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_5_S4_K2",
+        "id": "3B98016C-46D7-1A16-9222-BC8443006E78"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_5_S4_K3",
+        "id": "6D5F4DE2-494C-94A4-D237-DDA688371CCC"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_5_S5_Bounds",
+        "id": "B66082AB-4ED8-3284-E293-F4A8689D42A3"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_5_S5_Widths",
+        "id": "E9EF354B-4C7B-D7A3-DE92-71BD276C3A04"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_5_S5_K0",
+        "id": "D6CA8C96-4A95-9FBC-7F82-78BE4F7B8C12"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_5_S5_K1",
+        "id": "A556CAE6-41BE-174A-E1C4-85AB6C9F6A1E"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_5_S5_K2",
+        "id": "2B733E36-4D63-95AD-FF98-64A4D973FD7F"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_5_S5_K3",
+        "id": "036C084E-4DDE-DF63-23EA-0B912ADBDA16"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_5_S6_Bounds",
+        "id": "CA9333F0-4AC6-CCA3-19D1-99A65024A6EF"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_5_S6_Widths",
+        "id": "F3D77C2B-4507-D568-341F-E39F161D3779"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_5_S6_K0",
+        "id": "B58A44FD-4557-FAD8-0C1B-8D883CCAFF2C"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_5_S6_K1",
+        "id": "197CB7D9-40E3-FFCD-588F-05BD11C80264"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_5_S6_K2",
+        "id": "73BFE02A-40AB-1280-9EB7-77ABE1F4D870"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_5_S6_K3",
+        "id": "446AD5AE-46E4-F0B9-4C8D-FD99E71085ED"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_5_S7_Bounds",
+        "id": "9AD94713-4C43-36DB-7798-FAAA5C9A86F5"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_5_S7_Widths",
+        "id": "2B1B5BFE-440B-5400-1F48-1F8AAD63FAF3"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_5_S7_K0",
+        "id": "E2D77E29-4559-F3E0-D2CC-D19531F60566"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_5_S7_K1",
+        "id": "580B60D9-4E5A-E8E6-6AE5-8BAF4AA27960"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_5_S7_K2",
+        "id": "2B1E7C52-4937-AAC2-6A3F-359808DBF51C"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_5_S7_K3",
+        "id": "05AAF3D0-472D-A2F4-FB3C-5F9CCE4108F8"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_6_Origin",
+        "id": "77974C6E-49CE-789B-6487-2B9965873DB1"
+      },
+      {
+        "defaultValue": {
+          "r": 1,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_6_InverseX",
+        "id": "202A00E4-4694-4D66-9530-F7847BF2CEFE"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 1,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_6_InverseY",
+        "id": "489E9638-42B2-E800-6134-E1831B1A1E9B"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 1,
+          "a": 0
+        },
+        "parameterName": "BoatMask_6_InverseZ",
+        "id": "11773A02-4F23-5A86-A19C-939DEF541717"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_6_S0_Bounds",
+        "id": "CCA6F6EB-4C32-C018-932C-BA86C9BD1E14"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_6_S0_Widths",
+        "id": "735ADE65-4E43-4658-470D-C9A30803A28A"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_6_S0_K0",
+        "id": "37F96C3F-43B0-63C1-C1E5-F1959B40A713"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_6_S0_K1",
+        "id": "30F36E65-4CA6-0B61-5886-5D9E89BD587D"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_6_S0_K2",
+        "id": "D4290FA3-4BCA-A771-21F0-B1BCA229EDD3"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_6_S0_K3",
+        "id": "FA6D8D2A-4DEB-E490-A987-6A8D8A900BF0"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_6_S1_Bounds",
+        "id": "27DB653F-4D68-5B19-F655-0EBDE9C4982E"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_6_S1_Widths",
+        "id": "06351484-47BB-4FD8-AD8F-2C9EB1754ED3"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_6_S1_K0",
+        "id": "3285FD42-4FAC-47DE-3DBC-1A8B254DE365"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_6_S1_K1",
+        "id": "F3584DA3-4F59-3024-422E-739A6D9B4258"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_6_S1_K2",
+        "id": "FDAD4EA6-499A-4220-1A5C-B0BD23724062"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_6_S1_K3",
+        "id": "D3E618E3-4B0C-934B-905D-B283271C8FBF"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_6_S2_Bounds",
+        "id": "AE554482-41BD-2EEB-25F6-129E029AEDB2"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_6_S2_Widths",
+        "id": "6812BC31-4367-CE6F-519B-BF89A02A9B8C"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_6_S2_K0",
+        "id": "31854459-4698-EFEE-9CA6-EE9651B977D9"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_6_S2_K1",
+        "id": "6E03DB0A-49F5-665E-DC9D-AB92971E11C2"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_6_S2_K2",
+        "id": "889377ED-47FE-D687-AB4F-1E962E907EBE"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_6_S2_K3",
+        "id": "3C9797F7-4C8A-4222-284F-9F8B911E9F31"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_6_S3_Bounds",
+        "id": "BEEF0EE1-491F-7657-3B6B-F7BE9EA95DDF"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_6_S3_Widths",
+        "id": "ADEE82D3-42E7-277A-5D50-CFBECC64B0B4"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_6_S3_K0",
+        "id": "A9333F4A-4FDA-E44F-B225-5099ABA172F5"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_6_S3_K1",
+        "id": "481CA72C-4A19-C4B2-8F88-00A3AC56590E"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_6_S3_K2",
+        "id": "00218909-4B02-5561-6E11-E8B04ADEE57F"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_6_S3_K3",
+        "id": "CEBDD696-409C-19F7-DC73-F7AD1935C994"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_6_S4_Bounds",
+        "id": "397E1EA4-464D-F31B-2F5A-B289CB3A3880"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_6_S4_Widths",
+        "id": "2DEFE2AA-486B-53B6-2824-BBB9E7E01CBA"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_6_S4_K0",
+        "id": "12227E11-4040-89D3-359F-EB854209EFC2"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_6_S4_K1",
+        "id": "0D14F701-4F02-04F3-BD05-D2899D98DDCA"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_6_S4_K2",
+        "id": "3CB7D119-4238-1DBC-4EA5-2F8AEEB37EA5"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_6_S4_K3",
+        "id": "6E5DDEF5-41C4-1949-E7BA-099A3D4BFAAF"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_6_S5_Bounds",
+        "id": "F3C54107-40D8-9803-74F1-95B047AF570C"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_6_S5_Widths",
+        "id": "4185129D-4BBA-3503-A572-E8AF8AD47A61"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_6_S5_K0",
+        "id": "94A9152C-4800-BF35-5582-1D8F656CB092"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_6_S5_K1",
+        "id": "CC5349CF-4734-1810-21D8-F6BAA2541EA0"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_6_S5_K2",
+        "id": "50CD0AC3-491D-8694-1F64-CAA46B804164"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_6_S5_K3",
+        "id": "81A69279-4EC4-3A09-0FAF-4697305A8980"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_6_S6_Bounds",
+        "id": "242F88D4-456A-E466-F90B-B2B6D70E2CC2"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_6_S6_Widths",
+        "id": "55CCF9D6-4E4F-1AD7-28DB-FDA059987CD0"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_6_S6_K0",
+        "id": "D43DA396-4137-8CB2-A238-2CA74A90C775"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_6_S6_K1",
+        "id": "81BEFE16-417F-76E7-D0B3-E3BA24AA5575"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_6_S6_K2",
+        "id": "EE173BCB-4BB4-9DFB-5C5B-F9B9EF008630"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_6_S6_K3",
+        "id": "1DEECA35-4EEA-9909-EBF2-5B96A5576A55"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_6_S7_Bounds",
+        "id": "05620EA5-4B7D-9ED8-0492-B493D00B4A2E"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_6_S7_Widths",
+        "id": "6858655D-442C-31E4-FF3F-F797BE8138C4"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_6_S7_K0",
+        "id": "366CF196-4D8A-9B5B-7C11-A09B3517406D"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_6_S7_K1",
+        "id": "4162BA1B-453E-BBE0-AD1E-B0BFAAEE9573"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_6_S7_K2",
+        "id": "2267A343-4FC3-FDD8-2682-A4A62E119A77"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_6_S7_K3",
+        "id": "5FD9AF4B-4ABB-FF58-0772-2B82F1B7F730"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_7_Origin",
+        "id": "DC770246-4DC9-D5CC-6320-D68FC949E7BB"
+      },
+      {
+        "defaultValue": {
+          "r": 1,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_7_InverseX",
+        "id": "E49C6790-410A-A180-C87D-B98BE61920BB"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 1,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_7_InverseY",
+        "id": "B47B805B-4841-1083-2055-6CA21AC610F6"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 1,
+          "a": 0
+        },
+        "parameterName": "BoatMask_7_InverseZ",
+        "id": "054B238E-417F-A5B3-CB20-79A932E1FD4F"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_7_S0_Bounds",
+        "id": "0C312D41-435A-7603-B898-FEB790E26F53"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_7_S0_Widths",
+        "id": "288586AF-4FEB-5CB9-24A7-93B003DB8345"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_7_S0_K0",
+        "id": "A1E965FC-48BD-56EA-0B69-6D88C1E1C094"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_7_S0_K1",
+        "id": "5BB4EBDC-4D7C-22D2-DA66-0BA83288B465"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_7_S0_K2",
+        "id": "3EFC7EBC-45BB-3320-0831-6D9FE896307E"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_7_S0_K3",
+        "id": "B34E8016-4344-BDE8-1484-D9A278978333"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_7_S1_Bounds",
+        "id": "FEFEB362-4549-49E2-20D0-708C9B7B8ED3"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_7_S1_Widths",
+        "id": "1A03156B-45AA-C3EF-FE51-3BB0904BCB01"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_7_S1_K0",
+        "id": "6319B278-4012-84E1-F073-6B9F2FF063F0"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_7_S1_K1",
+        "id": "267295A0-480F-5E8E-9C0E-2E945AC79AB6"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_7_S1_K2",
+        "id": "82D99EC6-4C24-C8CB-AE3D-7AAD6305EF53"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_7_S1_K3",
+        "id": "0B129C04-4182-0F74-5C46-7B81B96287DE"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_7_S2_Bounds",
+        "id": "0544D57A-46E5-39A2-25DD-5FA1B8D51143"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_7_S2_Widths",
+        "id": "0BA2F9AD-438C-7ABE-DE40-F2844A0F865C"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_7_S2_K0",
+        "id": "DCDF78BF-4878-E2A0-A796-D79B13C497A2"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_7_S2_K1",
+        "id": "91E79E1B-4C10-426B-91FC-AFB0CB5B3899"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_7_S2_K2",
+        "id": "79AA88C0-4AC7-30A1-4C6B-FD8C073CCA7A"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_7_S2_K3",
+        "id": "08676756-4354-F782-1BCD-CCA0260069E1"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_7_S3_Bounds",
+        "id": "8DB47B26-4473-396F-A219-6380296635A9"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_7_S3_Widths",
+        "id": "0AF7BC95-43F3-73E4-823A-76869EC093D6"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_7_S3_K0",
+        "id": "F924E00F-49D2-B29F-4212-85B630C25CC3"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_7_S3_K1",
+        "id": "31D27284-4E54-7BB2-3D77-BCA17AD07D72"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_7_S3_K2",
+        "id": "B0921374-4475-711E-1FD1-26BFB02DD675"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_7_S3_K3",
+        "id": "2C8939D2-424C-1CB2-EAC7-2FB8509A04F4"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_7_S4_Bounds",
+        "id": "13B5FC9D-477E-7052-E92A-8CB61BDE92C2"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_7_S4_Widths",
+        "id": "2FC3FEC0-47F4-EB04-1FB1-5793C1BE2CE1"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_7_S4_K0",
+        "id": "F6DE6EF0-4CDE-F74E-C482-80A160B2ED5E"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_7_S4_K1",
+        "id": "723F1AFC-43C3-5FEC-486F-30B21C0F2A75"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_7_S4_K2",
+        "id": "0A59F43A-4634-FBEC-8D36-89B7A0C3437B"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_7_S4_K3",
+        "id": "83095902-4F4D-FE42-2E71-6C955E7312CA"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_7_S5_Bounds",
+        "id": "DFF0FD70-4901-107D-221E-21AEF34295E7"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_7_S5_Widths",
+        "id": "23284422-410C-025E-0C91-78974ECCCA03"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_7_S5_K0",
+        "id": "DA0EF79F-4D5F-5103-4079-9AA3BFCD4069"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_7_S5_K1",
+        "id": "70CDBA1A-4410-79F6-EF9F-0FA316AE078B"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_7_S5_K2",
+        "id": "8F5CC359-42F1-6CE0-A86D-83ABBB715CBF"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_7_S5_K3",
+        "id": "F81C5171-48AE-A9D9-DD78-51BDB4DA0D9E"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_7_S6_Bounds",
+        "id": "ADFC3E9B-4664-42D0-A558-5C9CC044BE3D"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_7_S6_Widths",
+        "id": "B3285CAD-4677-78BA-060C-FBAE8A2B15A7"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_7_S6_K0",
+        "id": "BC8BC36C-40F3-75FD-B08D-BA9698321946"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_7_S6_K1",
+        "id": "C35173DC-4FA4-BF25-B51E-CA9981A9E8BF"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_7_S6_K2",
+        "id": "3AA225B5-4B53-6A96-CC93-B7B7A3F508F2"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_7_S6_K3",
+        "id": "DEA86ECE-40B5-988A-25EE-F0B658BB5034"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_7_S7_Bounds",
+        "id": "D3DF750C-4D87-3F91-B8EE-42983B690837"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_7_S7_Widths",
+        "id": "7278B37F-4459-A053-AAB6-F9B6BA0570B4"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_7_S7_K0",
+        "id": "A5AB096A-4AEC-0E39-F9FC-77A60087C9FF"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_7_S7_K1",
+        "id": "9B950417-424A-13F7-1104-B9A11E651275"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_7_S7_K2",
+        "id": "67AD5E6F-4AA9-2CF2-13B9-C8AB3FF406A2"
+      },
+      {
+        "defaultValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        },
+        "parameterName": "BoatMask_7_S7_K3",
+        "id": "05E38F83-4C5E-C5D8-D81D-11BE8DE9D4F7"
+      }
+    ]
+  }
+}

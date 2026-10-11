@@ -1,0 +1,22 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "0.1.0",
+  "FriendlyName": "BoatlRacing Physics",
+  "Description": "Runtime water sampling and per-boat buoyancy configuration.",
+  "Category": "Gameplay",
+  "CanContainContent": false,
+  "Modules": [
+    {
+      "Name": "BoatlRacingPhysics",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ],
+  "Plugins": [
+    {
+      "Name": "Water",
+      "Enabled": true
+    }
+  ]
+}
