@@ -1,0 +1,1334 @@
+[
+  {
+    "label": "ThaiLongtailRefine03",
+    "source": "..\\..\\..\\..\\..\\..\\Users\\com\\Desktop\\UE5.8.3\\Model\\Blender\\ThaiLongtailBoat_Refine03_20261011\\exports\\VH_ThaiLongtailBoat_LOD0.glb",
+    "sha256": "d4bbd8053e07cbc52c50e568ef2700910db91b92e1dd88a6debb6247b52696b9",
+    "destination": "/Game/Boats/Modular/ThaiLongtailRefine03",
+    "source_meshes": 17,
+    "source_nodes": [
+      {
+        "name": "SOCKET_DriverSeat",
+        "translation": [
+          0,
+          0.28999999165534973,
+          -1.0299999713897705
+        ]
+      },
+      {
+        "name": "SOCKET_EngineMount",
+        "translation": [
+          0,
+          0.33000001311302185,
+          -1.7200000286102295
+        ]
+      },
+      {
+        "name": "SOCKET_ShaftDrive",
+        "translation": [
+          0,
+          0.3400000035762787,
+          -1.9800000190734863
+        ]
+      },
+      {
+        "name": "SOCKET_WakeOrigin",
+        "translation": [
+          0,
+          0.07999999821186066,
+          -2.0199999809265137
+        ]
+      },
+      {
+        "extras": {
+          "assembly": "BowDeck",
+          "customizable": true,
+          "source_triangles": 135,
+          "pivot_world_m": [
+            0.004065944813191891,
+            -1.1175965070724487,
+            0.4169544577598572
+          ],
+          "source_geometry_locked": true,
+          "material_role": "ShapeLockedBow",
+          "source_material_names": "[\"SRC_ShapeLockedBow\"]"
+        },
+        "mesh": 0,
+        "name": "VH_ThaiLongtailBoat_BowDeck_LOD0"
+      },
+      {
+        "extras": {
+          "assembly": "CoamingPort",
+          "customizable": true,
+          "source_triangles": 267,
+          "pivot_world_m": [
+            -0.35991209745407104,
+            0.8347102403640747,
+            0.3491861820220947
+          ],
+          "source_geometry_locked": true,
+          "material_role": "ShapeLockedCoaming",
+          "source_material_names": "[\"SRC_ShapeLockedCoaming\"]"
+        },
+        "mesh": 1,
+        "name": "VH_ThaiLongtailBoat_CoamingPort_LOD0"
+      },
+      {
+        "extras": {
+          "assembly": "CoamingStarboard",
+          "customizable": true,
+          "source_triangles": 137,
+          "pivot_world_m": [
+            0.3640897274017334,
+            0.8905717134475708,
+            0.3625628352165222
+          ],
+          "source_geometry_locked": true,
+          "material_role": "ShapeLockedCoaming",
+          "source_material_names": "[\"SRC_ShapeLockedCoaming\"]"
+        },
+        "mesh": 2,
+        "name": "VH_ThaiLongtailBoat_CoamingStarboard_LOD0"
+      },
+      {
+        "extras": {
+          "assembly": "CrossRibs",
+          "customizable": false,
+          "source_triangles": 4234,
+          "pivot_world_m": [
+            -0.0012951147509738803,
+            1.131018877029419,
+            0.2626449763774872
+          ],
+          "source_geometry_locked": true,
+          "material_role": "CrossWood",
+          "source_material_names": "[\"SRC_CrossWood\"]"
+        },
+        "mesh": 3,
+        "name": "VH_ThaiLongtailBoat_CrossRibs_LOD0"
+      },
+      {
+        "extras": {
+          "assembly": "EngineBed",
+          "customizable": true,
+          "source_triangles": 3050,
+          "pivot_world_m": [
+            0.03305917605757713,
+            1.7679429054260254,
+            0.2804967164993286
+          ],
+          "source_geometry_locked": true,
+          "material_role": "WoodDark",
+          "source_material_names": "[\"SRC_WoodDark\"]"
+        },
+        "mesh": 4,
+        "name": "VH_ThaiLongtailBoat_EngineBed_LOD0"
+      },
+      {
+        "extras": {
+          "assembly": "Fasteners",
+          "customizable": false,
+          "source_triangles": 3006,
+          "pivot_world_m": [
+            0.017401685938239098,
+            0.7417840361595154,
+            0.32404816150665283
+          ],
+          "source_geometry_locked": false,
+          "material_role": "Steel",
+          "source_material_names": "[\"SRC_Steel\", \"SRC_WoodDark\"]"
+        },
+        "mesh": 5,
+        "name": "VH_ThaiLongtailBoat_Fasteners_LOD0"
+      },
+      {
+        "extras": {
+          "assembly": "FloorPlanks",
+          "customizable": false,
+          "source_triangles": 642,
+          "pivot_world_m": [
+            0.008784190751612186,
+            0.33486199378967285,
+            0.16273640096187592
+          ],
+          "source_geometry_locked": true,
+          "material_role": "WoodDark",
+          "source_material_names": "[\"SRC_WoodDark\"]"
+        },
+        "mesh": 6,
+        "name": "VH_ThaiLongtailBoat_FloorPlanks_LOD0"
+      },
+      {
+        "extras": {
+          "assembly": "GraphicsPort",
+          "customizable": true,
+          "replaceable_graphics": true,
+          "source_material_names": "[\"SRC_OriginalRegisteredGraphics\"]"
+        },
+        "mesh": 7,
+        "name": "VH_ThaiLongtailBoat_GraphicsPort_LOD0"
+      },
+      {
+        "extras": {
+          "assembly": "GraphicsStarboard",
+          "customizable": true,
+          "replaceable_graphics": true,
+          "source_material_names": "[\"SRC_OriginalRegisteredGraphics\"]"
+        },
+        "mesh": 8,
+        "name": "VH_ThaiLongtailBoat_GraphicsStarboard_LOD0"
+      },
+      {
+        "extras": {
+          "assembly": "GraphicsStern",
+          "customizable": true,
+          "replaceable_graphics": true,
+          "source_material_names": "[\"SRC_OriginalRegisteredGraphics\"]"
+        },
+        "mesh": 9,
+        "name": "VH_ThaiLongtailBoat_GraphicsStern_LOD0"
+      },
+      {
+        "extras": {
+          "assembly": "GunwalePort",
+          "customizable": true,
+          "source_triangles": 596,
+          "pivot_world_m": [
+            -0.3082906901836395,
+            1.5369899272918701,
+            0.35841241478919983
+          ],
+          "source_geometry_locked": true,
+          "material_role": "ShapeLockedCoaming",
+          "source_material_names": "[\"SRC_ShapeLockedCoaming\"]"
+        },
+        "mesh": 10,
+        "name": "VH_ThaiLongtailBoat_GunwalePort_LOD0"
+      },
+      {
+        "extras": {
+          "assembly": "GunwaleStarboard",
+          "customizable": true,
+          "source_triangles": 603,
+          "pivot_world_m": [
+            0.30541542172431946,
+            1.6096181869506836,
+            0.36193737387657166
+          ],
+          "source_geometry_locked": true,
+          "material_role": "ShapeLockedCoaming",
+          "source_material_names": "[\"SRC_ShapeLockedCoaming\"]"
+        },
+        "mesh": 11,
+        "name": "VH_ThaiLongtailBoat_GunwaleStarboard_LOD0"
+      },
+      {
+        "extras": {
+          "assembly": "Hull",
+          "customizable": false,
+          "source_triangles": 4300,
+          "pivot_world_m": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "source_geometry_locked": true,
+          "material_role": "ShapeLockedExterior",
+          "source_material_names": "[\"SRC_SourceExteriorRegistered\", \"SRC_WoodDark\", \"SRC_ShapeLockedExterior\"]"
+        },
+        "mesh": 12,
+        "name": "VH_ThaiLongtailBoat_Hull_LOD0"
+      },
+      {
+        "extras": {
+          "assembly": "InteriorShell",
+          "customizable": false,
+          "source_triangles": 4283,
+          "pivot_world_m": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "source_geometry_locked": true,
+          "material_role": "WoodDark",
+          "source_material_names": "[\"SRC_WoodDark\"]"
+        },
+        "mesh": 13,
+        "name": "VH_ThaiLongtailBoat_InteriorShell_LOD0"
+      },
+      {
+        "extras": {
+          "assembly": "ServiceDeck",
+          "customizable": true,
+          "source_triangles": 108,
+          "pivot_world_m": [
+            -0.03238192945718765,
+            1.0395702123641968,
+            0.26868581771850586
+          ],
+          "source_geometry_locked": true,
+          "material_role": "SeatWood",
+          "source_material_names": "[\"SRC_SeatWood\"]"
+        },
+        "mesh": 14,
+        "name": "VH_ThaiLongtailBoat_ServiceDeck_LOD0"
+      },
+      {
+        "extras": {
+          "assembly": "Stringers",
+          "customizable": false,
+          "source_triangles": 306,
+          "pivot_world_m": [
+            0.01566379889845848,
+            0.25073814392089844,
+            0.24796868860721588
+          ],
+          "source_geometry_locked": true,
+          "material_role": "Wood",
+          "source_material_names": "[\"SRC_Wood\"]"
+        },
+        "mesh": 15,
+        "name": "VH_ThaiLongtailBoat_Stringers_LOD0"
+      },
+      {
+        "extras": {
+          "assembly": "TransomSplash",
+          "customizable": true,
+          "source_triangles": 9121,
+          "pivot_world_m": [
+            0.0031560712959617376,
+            1.9472731351852417,
+            0.4479907155036926
+          ],
+          "source_geometry_locked": true,
+          "material_role": "ShapeLockedStern",
+          "source_material_names": "[\"SRC_ShapeLockedStern\"]"
+        },
+        "mesh": 16,
+        "name": "VH_ThaiLongtailBoat_TransomSplash_LOD0"
+      },
+      {
+        "children": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "name": "VH_ThaiLongtailBoat"
+      }
+    ],
+    "meshes": [
+      {
+        "path": "/Game/Boats/Modular/ThaiLongtailRefine03/VH_ThaiLongtailBoat_LOD0/StaticMeshes/VH_ThaiLongtailBoat_BowDeck_LOD0.VH_ThaiLongtailBoat_BowDeck_LOD0",
+        "extent_cm": [
+          31.16756248474121,
+          63.60527801513672,
+          13.28774642944336
+        ],
+        "materials": [
+          "/Game/Boats/Modular/ThaiLongtailRefine03/VH_ThaiLongtailBoat_LOD0/Materials/VH_ThaiLongtailBoat_PBR_4K.VH_ThaiLongtailBoat_PBR_4K"
+        ]
+      },
+      {
+        "path": "/Game/Boats/Modular/ThaiLongtailRefine03/VH_ThaiLongtailBoat_LOD0/StaticMeshes/VH_ThaiLongtailBoat_CoamingPort_LOD0.VH_ThaiLongtailBoat_CoamingPort_LOD0",
+        "extent_cm": [
+          3.908148765563965,
+          79.72643375396729,
+          11.529058456420898
+        ],
+        "materials": [
+          "/Game/Boats/Modular/ThaiLongtailRefine03/VH_ThaiLongtailBoat_LOD0/Materials/VH_ThaiLongtailBoat_PBR_4K.VH_ThaiLongtailBoat_PBR_4K"
+        ]
+      },
+      {
+        "path": "/Game/Boats/Modular/ThaiLongtailRefine03/VH_ThaiLongtailBoat_LOD0/StaticMeshes/VH_ThaiLongtailBoat_CoamingStarboard_LOD0.VH_ThaiLongtailBoat_CoamingStarboard_LOD0",
+        "extent_cm": [
+          3.8104629516601562,
+          79.72642803192139,
+          11.529058456420898
+        ],
+        "materials": [
+          "/Game/Boats/Modular/ThaiLongtailRefine03/VH_ThaiLongtailBoat_LOD0/Materials/VH_ThaiLongtailBoat_PBR_4K.VH_ThaiLongtailBoat_PBR_4K"
+        ]
+      },
+      {
+        "path": "/Game/Boats/Modular/ThaiLongtailRefine03/VH_ThaiLongtailBoat_LOD0/StaticMeshes/VH_ThaiLongtailBoat_CrossRibs_LOD0.VH_ThaiLongtailBoat_CrossRibs_LOD0",
+        "extent_cm": [
+          43.478261947631836,
+          129.75085067749023,
+          9.965797424316406
+        ],
+        "materials": [
+          "/Game/Boats/Modular/ThaiLongtailRefine03/VH_ThaiLongtailBoat_LOD0/Materials/VH_ThaiLongtailBoat_PBR_4K.VH_ThaiLongtailBoat_PBR_4K"
+        ]
+      },
+      {
+        "path": "/Game/Boats/Modular/ThaiLongtailRefine03/VH_ThaiLongtailBoat_LOD0/StaticMeshes/VH_ThaiLongtailBoat_EngineBed_LOD0.VH_ThaiLongtailBoat_EngineBed_LOD0",
+        "extent_cm": [
+          27.06399631500244,
+          24.523696899414062,
+          10.063508033752441
+        ],
+        "materials": [
+          "/Game/Boats/Modular/ThaiLongtailRefine03/VH_ThaiLongtailBoat_LOD0/Materials/VH_ThaiLongtailBoat_PBR_4K.VH_ThaiLongtailBoat_PBR_4K"
+        ]
+      },
+      {
+        "path": "/Game/Boats/Modular/ThaiLongtailRefine03/VH_ThaiLongtailBoat_LOD0/StaticMeshes/VH_ThaiLongtailBoat_Fasteners_LOD0.VH_ThaiLongtailBoat_Fasteners_LOD0",
+        "extent_cm": [
+          36.999996185302734,
+          109.91695213317871,
+          13.254499435424805
+        ],
+        "materials": [
+          "/Game/Boats/Modular/ThaiLongtailRefine03/VH_ThaiLongtailBoat_LOD0/Materials/VH_ThaiLongtailBoat_PBR_4K.VH_ThaiLongtailBoat_PBR_4K"
+        ]
+      },
+      {
+        "path": "/Game/Boats/Modular/ThaiLongtailRefine03/VH_ThaiLongtailBoat_LOD0/StaticMeshes/VH_ThaiLongtailBoat_FloorPlanks_LOD0.VH_ThaiLongtailBoat_FloorPlanks_LOD0",
+        "extent_cm": [
+          29.21349334716797,
+          104.25012588500977,
+          2.247185707092285
+        ],
+        "materials": [
+          "/Game/Boats/Modular/ThaiLongtailRefine03/VH_ThaiLongtailBoat_LOD0/Materials/VH_ThaiLongtailBoat_PBR_4K.VH_ThaiLongtailBoat_PBR_4K"
+        ]
+      },
+      {
+        "path": "/Game/Boats/Modular/ThaiLongtailRefine03/VH_ThaiLongtailBoat_LOD0/StaticMeshes/VH_ThaiLongtailBoat_GraphicsPort_LOD0.VH_ThaiLongtailBoat_GraphicsPort_LOD0",
+        "extent_cm": [
+          24.829224582761526,
+          160.33760833740234,
+          17.200104475021362
+        ],
+        "materials": [
+          "/Game/Boats/Modular/ThaiLongtailRefine03/VH_ThaiLongtailBoat_LOD0/Materials/VH_ThaiLongtailBoat_Graphics_4K.VH_ThaiLongtailBoat_Graphics_4K"
+        ]
+      },
+      {
+        "path": "/Game/Boats/Modular/ThaiLongtailRefine03/VH_ThaiLongtailBoat_LOD0/StaticMeshes/VH_ThaiLongtailBoat_GraphicsStarboard_LOD0.VH_ThaiLongtailBoat_GraphicsStarboard_LOD0",
+        "extent_cm": [
+          24.633808970451355,
+          160.3377914428711,
+          17.200000762939453
+        ],
+        "materials": [
+          "/Game/Boats/Modular/ThaiLongtailRefine03/VH_ThaiLongtailBoat_LOD0/Materials/VH_ThaiLongtailBoat_Graphics_4K.VH_ThaiLongtailBoat_Graphics_4K"
+        ]
+      },
+      {
+        "path": "/Game/Boats/Modular/ThaiLongtailRefine03/VH_ThaiLongtailBoat_LOD0/StaticMeshes/VH_ThaiLongtailBoat_GraphicsStern_LOD0.VH_ThaiLongtailBoat_GraphicsStern_LOD0",
+        "extent_cm": [
+          46.238807678222656,
+          10.07598876953125,
+          19.536540746688843
+        ],
+        "materials": [
+          "/Game/Boats/Modular/ThaiLongtailRefine03/VH_ThaiLongtailBoat_LOD0/Materials/VH_ThaiLongtailBoat_Graphics_4K.VH_ThaiLongtailBoat_Graphics_4K"
+        ]
+      },
+      {
+        "path": "/Game/Boats/Modular/ThaiLongtailRefine03/VH_ThaiLongtailBoat_LOD0/StaticMeshes/VH_ThaiLongtailBoat_GunwalePort_LOD0.VH_ThaiLongtailBoat_GunwalePort_LOD0",
+        "extent_cm": [
+          9.574987411499023,
+          130.7278995513916,
+          9.477272987365723
+        ],
+        "materials": [
+          "/Game/Boats/Modular/ThaiLongtailRefine03/VH_ThaiLongtailBoat_LOD0/Materials/VH_ThaiLongtailBoat_PBR_4K.VH_ThaiLongtailBoat_PBR_4K"
+        ]
+      },
+      {
+        "path": "/Game/Boats/Modular/ThaiLongtailRefine03/VH_ThaiLongtailBoat_LOD0/StaticMeshes/VH_ThaiLongtailBoat_GunwaleStarboard_LOD0.VH_ThaiLongtailBoat_GunwaleStarboard_LOD0",
+        "extent_cm": [
+          9.184170722961426,
+          130.72788619995117,
+          10.84512996673584
+        ],
+        "materials": [
+          "/Game/Boats/Modular/ThaiLongtailRefine03/VH_ThaiLongtailBoat_LOD0/Materials/VH_ThaiLongtailBoat_PBR_4K.VH_ThaiLongtailBoat_PBR_4K"
+        ]
+      },
+      {
+        "path": "/Game/Boats/Modular/ThaiLongtailRefine03/VH_ThaiLongtailBoat_LOD0/StaticMeshes/VH_ThaiLongtailBoat_Hull_LOD0.VH_ThaiLongtailBoat_Hull_LOD0",
+        "extent_cm": [
+          49.53590774536133,
+          200.0,
+          29.799720421155456
+        ],
+        "materials": [
+          "/Game/Boats/Modular/ThaiLongtailRefine03/VH_ThaiLongtailBoat_LOD0/Materials/VH_ThaiLongtailBoat_PBR_4K.VH_ThaiLongtailBoat_PBR_4K"
+        ]
+      },
+      {
+        "path": "/Game/Boats/Modular/ThaiLongtailRefine03/VH_ThaiLongtailBoat_LOD0/StaticMeshes/VH_ThaiLongtailBoat_InteriorShell_LOD0.VH_ThaiLongtailBoat_InteriorShell_LOD0",
+        "extent_cm": [
+          44.858285903930664,
+          199.60918426513672,
+          25.500746726989746
+        ],
+        "materials": [
+          "/Game/Boats/Modular/ThaiLongtailRefine03/VH_ThaiLongtailBoat_LOD0/Materials/VH_ThaiLongtailBoat_PBR_4K.VH_ThaiLongtailBoat_PBR_4K"
+        ]
+      },
+      {
+        "path": "/Game/Boats/Modular/ThaiLongtailRefine03/VH_ThaiLongtailBoat_LOD0/StaticMeshes/VH_ThaiLongtailBoat_ServiceDeck_LOD0.VH_ThaiLongtailBoat_ServiceDeck_LOD0",
+        "extent_cm": [
+          19.931610107421875,
+          26.282367706298828,
+          1.0747404098510742
+        ],
+        "materials": [
+          "/Game/Boats/Modular/ThaiLongtailRefine03/VH_ThaiLongtailBoat_LOD0/Materials/VH_ThaiLongtailBoat_PBR_4K.VH_ThaiLongtailBoat_PBR_4K"
+        ]
+      },
+      {
+        "path": "/Game/Boats/Modular/ThaiLongtailRefine03/VH_ThaiLongtailBoat_LOD0/StaticMeshes/VH_ThaiLongtailBoat_Stringers_LOD0.VH_ThaiLongtailBoat_Stringers_LOD0",
+        "extent_cm": [
+          9.672701358795166,
+          70.63996124267578,
+          2.149481773376465
+        ],
+        "materials": [
+          "/Game/Boats/Modular/ThaiLongtailRefine03/VH_ThaiLongtailBoat_LOD0/Materials/VH_ThaiLongtailBoat_PBR_4K.VH_ThaiLongtailBoat_PBR_4K"
+        ]
+      },
+      {
+        "path": "/Game/Boats/Modular/ThaiLongtailRefine03/VH_ThaiLongtailBoat_LOD0/StaticMeshes/VH_ThaiLongtailBoat_TransomSplash_LOD0.VH_ThaiLongtailBoat_TransomSplash_LOD0",
+        "extent_cm": [
+          42.0127010345459,
+          18.172935485839844,
+          12.896918296813965
+        ],
+        "materials": [
+          "/Game/Boats/Modular/ThaiLongtailRefine03/VH_ThaiLongtailBoat_LOD0/Materials/VH_ThaiLongtailBoat_PBR_4K.VH_ThaiLongtailBoat_PBR_4K"
+        ]
+      }
+    ],
+    "materials": [
+      "/Game/Boats/Modular/ThaiLongtailRefine03/VH_ThaiLongtailBoat_LOD0/Materials/VH_ThaiLongtailBoat_Graphics_4K.VH_ThaiLongtailBoat_Graphics_4K",
+      "/Game/Boats/Modular/ThaiLongtailRefine03/VH_ThaiLongtailBoat_LOD0/Materials/VH_ThaiLongtailBoat_PBR_4K.VH_ThaiLongtailBoat_PBR_4K"
+    ],
+    "textures": [
+      "/Game/Boats/Modular/ThaiLongtailRefine03/VH_ThaiLongtailBoat_LOD0/Textures/VH_ThaiLongtailBoat_AO_4K-VH_ThaiLongtailB_oughness_4K-VH_ThaiLongtailBoat_Metallic_4K.VH_ThaiLongtailBoat_AO_4K-VH_ThaiLongtailB_oughness_4K-VH_ThaiLongtailBoat_Metallic_4K",
+      "/Game/Boats/Modular/ThaiLongtailRefine03/VH_ThaiLongtailBoat_LOD0/Textures/VH_ThaiLongtailBoat_AO_4K-VH_ThaiLongtailB_ughness_4K-VH_ThaiLongtailBoat_Metallic_4K1.VH_ThaiLongtailBoat_AO_4K-VH_ThaiLongtailB_ughness_4K-VH_ThaiLongtailBoat_Metallic_4K1",
+      "/Game/Boats/Modular/ThaiLongtailRefine03/VH_ThaiLongtailBoat_LOD0/Textures/VH_ThaiLongtailBoat_BaseColor_4K-VH_ThaiLongtailBoat_Alpha_4K.VH_ThaiLongtailBoat_BaseColor_4K-VH_ThaiLongtailBoat_Alpha_4K",
+      "/Game/Boats/Modular/ThaiLongtailRefine03/VH_ThaiLongtailBoat_LOD0/Textures/VH_ThaiLongtailBoat_BaseColor_4K.VH_ThaiLongtailBoat_BaseColor_4K",
+      "/Game/Boats/Modular/ThaiLongtailRefine03/VH_ThaiLongtailBoat_LOD0/Textures/VH_ThaiLongtailBoat_CoatWeight_4K-VH_ThaiLongtailBoat_CoatRoughness_4K.VH_ThaiLongtailBoat_CoatWeight_4K-VH_ThaiLongtailBoat_CoatRoughness_4K",
+      "/Game/Boats/Modular/ThaiLongtailRefine03/VH_ThaiLongtailBoat_LOD0/Textures/VH_ThaiLongtailBoat_CoatWeight_4K-VH_ThaiLongtailBoat_CoatRoughness_4K1.VH_ThaiLongtailBoat_CoatWeight_4K-VH_ThaiLongtailBoat_CoatRoughness_4K1",
+      "/Game/Boats/Modular/ThaiLongtailRefine03/VH_ThaiLongtailBoat_LOD0/Textures/VH_ThaiLongtailBoat_NormalGL_4K.VH_ThaiLongtailBoat_NormalGL_4K",
+      "/Game/Boats/Modular/ThaiLongtailRefine03/VH_ThaiLongtailBoat_LOD0/Textures/VH_ThaiLongtailBoat_NormalGL_4K1.VH_ThaiLongtailBoat_NormalGL_4K1",
+      "/Game/Boats/Modular/ThaiLongtailRefine03/VH_ThaiLongtailBoat_LOD0/Textures/VH_ThaiLongtailBoat_SpecularLevel_4K.VH_ThaiLongtailBoat_SpecularLevel_4K",
+      "/Game/Boats/Modular/ThaiLongtailRefine03/VH_ThaiLongtailBoat_LOD0/Textures/VH_ThaiLongtailBoat_SpecularLevel_4K1.VH_ThaiLongtailBoat_SpecularLevel_4K1"
+    ],
+    "status": "existing"
+  },
+  {
+    "label": "Racing150cc",
+    "source": "..\\..\\..\\..\\..\\..\\Users\\com\\Desktop\\UE5.8.3\\Model\\Blender\\RacingEngine150cc_20261004_GameOptimized\\exports\\PR_RacingEngine150cc_Static_LOD0.glb",
+    "sha256": "ae64b515e0d6f00457d5a28fa7ca0c7ddef71e39ad2e0d0522441ecfb37db016",
+    "destination": "/Game/Engines/Racing150cc",
+    "source_meshes": 3,
+    "source_nodes": [
+      {
+        "mesh": 0,
+        "name": "PR_RacingEngine150cc_Static_Badge_LOD0"
+      },
+      {
+        "mesh": 1,
+        "name": "PR_RacingEngine150cc_Static_Main_LOD0"
+      },
+      {
+        "mesh": 2,
+        "name": "PR_RacingEngine150cc_Static_Titanium_LOD0"
+      },
+      {
+        "name": "SOCKET_exhaust",
+        "translation": [
+          0.16899999976158142,
+          0.39899998903274536,
+          -0.18700000643730164
+        ]
+      },
+      {
+        "name": "SOCKET_intake",
+        "rotation": [
+          0.7071068286895752,
+          0,
+          0,
+          0.7071068286895752
+        ],
+        "translation": [
+          -0.08799999952316284,
+          0.2199999988079071,
+          0.17800000309944153
+        ]
+      },
+      {
+        "name": "SOCKET_mount",
+        "translation": [
+          0,
+          0.032999999821186066,
+          0
+        ]
+      },
+      {
+        "name": "SOCKET_output",
+        "translation": [
+          0,
+          0.0860000029206276,
+          -0.13500000536441803
+        ]
+      },
+      {
+        "name": "SOCKET_spark",
+        "translation": [
+          0,
+          0.2919999957084656,
+          -0.013000000268220901
+        ]
+      },
+      {
+        "children": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "name": "PR_RacingEngine150cc_ROOT"
+      }
+    ],
+    "meshes": [
+      {
+        "path": "/Game/Engines/Racing150cc/PR_RacingEngine150cc_Static_LOD0/StaticMeshes/PR_RacingEngine150cc_Static_Badge_LOD0.PR_RacingEngine150cc_Static_Badge_LOD0",
+        "extent_cm": [
+          3.9060001373291016,
+          0.0,
+          3.9059994220733643
+        ],
+        "materials": [
+          "/Game/Engines/Racing150cc/PR_RacingEngine150cc_Static_LOD0/Materials/M_Engine150_Badge.M_Engine150_Badge"
+        ]
+      },
+      {
+        "path": "/Game/Engines/Racing150cc/PR_RacingEngine150cc_Static_LOD0/StaticMeshes/PR_RacingEngine150cc_Static_Main_LOD0.PR_RacingEngine150cc_Static_Main_LOD0",
+        "extent_cm": [
+          17.485408306121826,
+          19.630784034729004,
+          19.048131063580513
+        ],
+        "materials": [
+          "/Game/Engines/Racing150cc/PR_RacingEngine150cc_Static_LOD0/Materials/M_Engine150_Main.M_Engine150_Main"
+        ]
+      },
+      {
+        "path": "/Game/Engines/Racing150cc/PR_RacingEngine150cc_Static_LOD0/StaticMeshes/PR_RacingEngine150cc_Static_Titanium_LOD0.PR_RacingEngine150cc_Static_Titanium_LOD0",
+        "extent_cm": [
+          7.715571641921997,
+          8.699966311454773,
+          13.416788101196289
+        ],
+        "materials": [
+          "/Game/Engines/Racing150cc/PR_RacingEngine150cc_Static_LOD0/Materials/M_Engine150_Titanium.M_Engine150_Titanium"
+        ]
+      }
+    ],
+    "materials": [
+      "/Game/Engines/Racing150cc/PR_RacingEngine150cc_Static_LOD0/Materials/M_Engine150_Badge.M_Engine150_Badge",
+      "/Game/Engines/Racing150cc/PR_RacingEngine150cc_Static_LOD0/Materials/M_Engine150_Main.M_Engine150_Main",
+      "/Game/Engines/Racing150cc/PR_RacingEngine150cc_Static_LOD0/Materials/M_Engine150_Titanium.M_Engine150_Titanium"
+    ],
+    "textures": [
+      "/Game/Engines/Racing150cc/PR_RacingEngine150cc_Static_LOD0/Textures/T_Engine150_Badge_BaseColor.T_Engine150_Badge_BaseColor",
+      "/Game/Engines/Racing150cc/PR_RacingEngine150cc_Static_LOD0/Textures/T_Engine150_Exhaust_AO_png-T_Engine150_Exhaust_Roughness_png-T_Engine150_Exhaust_Metallic_png.T_Engine150_Exhaust_AO_png-T_Engine150_Exhaust_Roughness_png-T_Engine150_Exhaust_Metallic_png",
+      "/Game/Engines/Racing150cc/PR_RacingEngine150cc_Static_LOD0/Textures/T_Engine150_Exhaust_BaseColor.T_Engine150_Exhaust_BaseColor",
+      "/Game/Engines/Racing150cc/PR_RacingEngine150cc_Static_LOD0/Textures/T_Engine150_Exhaust_NormalGL.T_Engine150_Exhaust_NormalGL",
+      "/Game/Engines/Racing150cc/PR_RacingEngine150cc_Static_LOD0/Textures/T_Engine150_Main_AO-T_Engine150_Main_Roughness-T_Engine150_Main_Metallic.T_Engine150_Main_AO-T_Engine150_Main_Roughness-T_Engine150_Main_Metallic",
+      "/Game/Engines/Racing150cc/PR_RacingEngine150cc_Static_LOD0/Textures/T_Engine150_Main_BaseColor.T_Engine150_Main_BaseColor",
+      "/Game/Engines/Racing150cc/PR_RacingEngine150cc_Static_LOD0/Textures/T_Engine150_Main_NormalGL.T_Engine150_Main_NormalGL"
+    ],
+    "status": "imported"
+  },
+  {
+    "label": "Thai150cc",
+    "source": "..\\..\\..\\..\\..\\..\\Users\\com\\Desktop\\UE5.8.3\\Model\\Blender\\Thai150cc_GameOptimized\\exports\\SM_Thai150_Game_Runtime.glb",
+    "sha256": "a28ee3888bfef1f8691ec00fe397609ab7c7edd1accb9711b87208ab614b1b23",
+    "destination": "/Game/Engines/Thai150cc",
+    "source_meshes": 9,
+    "source_nodes": [
+      {
+        "mesh": 0,
+        "name": "SM_Thai150_Game_AirFilter_Runtime",
+        "translation": [
+          0.0078660249710083,
+          0.2930000126361847,
+          0.004232052713632584
+        ]
+      },
+      {
+        "mesh": 1,
+        "name": "SM_Thai150_Game_CarbThrottle_Runtime",
+        "translation": [
+          0.05299999564886093,
+          0.29259997606277466,
+          -0.0139999995008111
+        ]
+      },
+      {
+        "mesh": 2,
+        "name": "SM_Thai150_Game_CrankCover_Runtime",
+        "translation": [
+          0.03200000151991844,
+          0.09600000083446503,
+          0
+        ]
+      },
+      {
+        "mesh": 3,
+        "name": "SM_Thai150_Game_Electrical_Runtime",
+        "translation": [
+          0.11699999868869781,
+          0.2906000018119812,
+          -0.07000000029802322
+        ]
+      },
+      {
+        "mesh": 4,
+        "name": "SM_Thai150_Game_EngineCore_Runtime",
+        "translation": [
+          0.017999999225139618,
+          0.09210000187158585,
+          -0.023999998345971107
+        ]
+      },
+      {
+        "mesh": 5,
+        "name": "SM_Thai150_Game_Exhaust_Runtime",
+        "translation": [
+          0.2189808040857315,
+          0.21046169102191925,
+          -0.01453540101647377
+        ]
+      },
+      {
+        "mesh": 6,
+        "name": "SM_Thai150_Game_Hoses_Runtime",
+        "translation": [
+          -0.07815440744161606,
+          0.086994469165802,
+          0.07992880046367645
+        ]
+      },
+      {
+        "mesh": 7,
+        "name": "SM_Thai150_Game_Mounts_Runtime",
+        "translation": [
+          -0.0040000006556510925,
+          0.014000000432133675,
+          -0.01199999637901783
+        ]
+      },
+      {
+        "mesh": 8,
+        "name": "SM_Thai150_Game_Muffler_Runtime",
+        "translation": [
+          0.3875967264175415,
+          0.36684340238571167,
+          -0.04552992805838585
+        ]
+      },
+      {
+        "name": "SOCKET_exhaust",
+        "translation": [
+          0.4460601806640625,
+          0.4014149606227875,
+          -0.047019850462675095
+        ]
+      },
+      {
+        "name": "SOCKET_intake",
+        "translation": [
+          -0.06449999660253525,
+          0.2930000126361847,
+          0.1285736858844757
+        ]
+      },
+      {
+        "name": "SOCKET_mount",
+        "translation": [
+          0,
+          0.019999999552965164,
+          -0.012000000104308128
+        ]
+      },
+      {
+        "name": "SOCKET_output",
+        "translation": [
+          -0.12399999797344208,
+          0.10499999672174454,
+          0.12300000339746475
+        ]
+      },
+      {
+        "name": "SOCKET_spark",
+        "translation": [
+          0.026000000536441803,
+          0.25380000472068787,
+          -0.07500000298023224
+        ]
+      },
+      {
+        "children": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ],
+        "name": "SM_Thai150_Game_ROOT"
+      }
+    ],
+    "meshes": [
+      {
+        "path": "/Game/Engines/Thai150cc/SM_Thai150_Game_Runtime/StaticMeshes/SM_Thai150_Game_AirFilter_Runtime.SM_Thai150_Game_AirFilter_Runtime",
+        "extent_cm": [
+          7.382162570953369,
+          9.10165536403656,
+          4.804939270019531
+        ],
+        "materials": [
+          "/Game/Engines/Thai150cc/SM_Thai150_Game_Runtime/Materials/M_Thai150_Main4K_002_2K.M_Thai150_Main4K_002_2K"
+        ]
+      },
+      {
+        "path": "/Game/Engines/Thai150cc/SM_Thai150_Game_Runtime/StaticMeshes/SM_Thai150_Game_CarbThrottle_Runtime.SM_Thai150_Game_CarbThrottle_Runtime",
+        "extent_cm": [
+          5.433276891708374,
+          6.349934697151184,
+          6.7373552322387695
+        ],
+        "materials": [
+          "/Game/Engines/Thai150cc/SM_Thai150_Game_Runtime/Materials/M_Thai150_Main4K_002_2K.M_Thai150_Main4K_002_2K"
+        ]
+      },
+      {
+        "path": "/Game/Engines/Thai150cc/SM_Thai150_Game_Runtime/StaticMeshes/SM_Thai150_Game_CrankCover_Runtime.SM_Thai150_Game_CrankCover_Runtime",
+        "extent_cm": [
+          5.575216889381409,
+          2.65008544921875,
+          5.378422021865845
+        ],
+        "materials": [
+          "/Game/Engines/Thai150cc/SM_Thai150_Game_Runtime/Materials/M_Thai150_Main4K_002_2K.M_Thai150_Main4K_002_2K",
+          "/Game/Engines/Thai150cc/SM_Thai150_Game_Runtime/Materials/M_Thai150_Cover4K_001_2K.M_Thai150_Cover4K_001_2K"
+        ]
+      },
+      {
+        "path": "/Game/Engines/Thai150cc/SM_Thai150_Game_Runtime/StaticMeshes/SM_Thai150_Game_Electrical_Runtime.SM_Thai150_Game_Electrical_Runtime",
+        "extent_cm": [
+          7.473353385925293,
+          4.1889050006866455,
+          5.1738128662109375
+        ],
+        "materials": [
+          "/Game/Engines/Thai150cc/SM_Thai150_Game_Runtime/Materials/M_Thai150_Main4K_002_2K.M_Thai150_Main4K_002_2K"
+        ]
+      },
+      {
+        "path": "/Game/Engines/Thai150cc/SM_Thai150_Game_Runtime/StaticMeshes/SM_Thai150_Game_EngineCore_Runtime.SM_Thai150_Game_EngineCore_Runtime",
+        "extent_cm": [
+          13.674811363220215,
+          12.02604866027832,
+          14.399244725704193
+        ],
+        "materials": [
+          "/Game/Engines/Thai150cc/SM_Thai150_Game_Runtime/Materials/M_Thai150_Main4K_002_2K.M_Thai150_Main4K_002_2K"
+        ]
+      },
+      {
+        "path": "/Game/Engines/Thai150cc/SM_Thai150_Game_Runtime/StaticMeshes/SM_Thai150_Game_Exhaust_Runtime.SM_Thai150_Game_Exhaust_Runtime",
+        "extent_cm": [
+          13.806085348129272,
+          6.92783784866333,
+          13.354583740234375
+        ],
+        "materials": [
+          "/Game/Engines/Thai150cc/SM_Thai150_Game_Runtime/Materials/M_Thai150_Exhaust4K_001_2K.M_Thai150_Exhaust4K_001_2K",
+          "/Game/Engines/Thai150cc/SM_Thai150_Game_Runtime/Materials/M_Thai150_Main4K_002_2K.M_Thai150_Main4K_002_2K"
+        ]
+      },
+      {
+        "path": "/Game/Engines/Thai150cc/SM_Thai150_Game_Runtime/StaticMeshes/SM_Thai150_Game_Hoses_Runtime.SM_Thai150_Game_Hoses_Runtime",
+        "extent_cm": [
+          10.809112071990967,
+          8.901532173156738,
+          11.997294068336487
+        ],
+        "materials": [
+          "/Game/Engines/Thai150cc/SM_Thai150_Game_Runtime/Materials/M_Thai150_Main4K_002_2K.M_Thai150_Main4K_002_2K"
+        ]
+      },
+      {
+        "path": "/Game/Engines/Thai150cc/SM_Thai150_Game_Runtime/StaticMeshes/SM_Thai150_Game_Mounts_Runtime.SM_Thai150_Game_Mounts_Runtime",
+        "extent_cm": [
+          12.844350814819336,
+          11.804243087768555,
+          2.3619283698499203
+        ],
+        "materials": [
+          "/Game/Engines/Thai150cc/SM_Thai150_Game_Runtime/Materials/M_Thai150_Main4K_002_2K.M_Thai150_Main4K_002_2K"
+        ]
+      },
+      {
+        "path": "/Game/Engines/Thai150cc/SM_Thai150_Game_Runtime/StaticMeshes/SM_Thai150_Game_Muffler_Runtime.SM_Thai150_Game_Muffler_Runtime",
+        "extent_cm": [
+          7.119321823120117,
+          3.7160578966140747,
+          6.020153045654297
+        ],
+        "materials": [
+          "/Game/Engines/Thai150cc/SM_Thai150_Game_Runtime/Materials/M_Thai150_Muffler4K_001_2K.M_Thai150_Muffler4K_001_2K",
+          "/Game/Engines/Thai150cc/SM_Thai150_Game_Runtime/Materials/M_Thai150_Main4K_002_2K.M_Thai150_Main4K_002_2K",
+          "/Game/Engines/Thai150cc/SM_Thai150_Game_Runtime/Materials/M_Thai150_RacingDecal_2K.M_Thai150_RacingDecal_2K"
+        ]
+      }
+    ],
+    "materials": [
+      "/Game/Engines/Thai150cc/SM_Thai150_Game_Runtime/Materials/M_Thai150_Cover4K_001_2K.M_Thai150_Cover4K_001_2K",
+      "/Game/Engines/Thai150cc/SM_Thai150_Game_Runtime/Materials/M_Thai150_Exhaust4K_001_2K.M_Thai150_Exhaust4K_001_2K",
+      "/Game/Engines/Thai150cc/SM_Thai150_Game_Runtime/Materials/M_Thai150_Main4K_002_2K.M_Thai150_Main4K_002_2K",
+      "/Game/Engines/Thai150cc/SM_Thai150_Game_Runtime/Materials/M_Thai150_Muffler4K_001_2K.M_Thai150_Muffler4K_001_2K",
+      "/Game/Engines/Thai150cc/SM_Thai150_Game_Runtime/Materials/M_Thai150_RacingDecal_2K.M_Thai150_RacingDecal_2K"
+    ],
+    "textures": [
+      "/Game/Engines/Thai150cc/SM_Thai150_Game_Runtime/Textures/T_Thai150_Cover_BaseColor.T_Thai150_Cover_BaseColor",
+      "/Game/Engines/Thai150cc/SM_Thai150_Game_Runtime/Textures/T_Thai150_Cover_Metallic_png-T_Thai150_Cover_Roughness_png.T_Thai150_Cover_Metallic_png-T_Thai150_Cover_Roughness_png",
+      "/Game/Engines/Thai150cc/SM_Thai150_Game_Runtime/Textures/T_Thai150_Cover_NormalGL.T_Thai150_Cover_NormalGL",
+      "/Game/Engines/Thai150cc/SM_Thai150_Game_Runtime/Textures/T_Thai150_Exhaust_BaseColor.T_Thai150_Exhaust_BaseColor",
+      "/Game/Engines/Thai150cc/SM_Thai150_Game_Runtime/Textures/T_Thai150_Exhaust_Metallic_png-T_Thai150_Exhaust_Roughness_png.T_Thai150_Exhaust_Metallic_png-T_Thai150_Exhaust_Roughness_png",
+      "/Game/Engines/Thai150cc/SM_Thai150_Game_Runtime/Textures/T_Thai150_Exhaust_NormalGL.T_Thai150_Exhaust_NormalGL",
+      "/Game/Engines/Thai150cc/SM_Thai150_Game_Runtime/Textures/T_Thai150_Main_AO_png-T_Thai150_Main_Roughness_png-T_Thai150_Main_Metallic_png.T_Thai150_Main_AO_png-T_Thai150_Main_Roughness_png-T_Thai150_Main_Metallic_png",
+      "/Game/Engines/Thai150cc/SM_Thai150_Game_Runtime/Textures/T_Thai150_Main_BaseColor.T_Thai150_Main_BaseColor",
+      "/Game/Engines/Thai150cc/SM_Thai150_Game_Runtime/Textures/T_Thai150_Main_NormalGL.T_Thai150_Main_NormalGL",
+      "/Game/Engines/Thai150cc/SM_Thai150_Game_Runtime/Textures/T_Thai150_Muffler_BaseColor.T_Thai150_Muffler_BaseColor",
+      "/Game/Engines/Thai150cc/SM_Thai150_Game_Runtime/Textures/T_Thai150_Muffler_Metallic_png-T_Thai150_Muffler_Roughness_png.T_Thai150_Muffler_Metallic_png-T_Thai150_Muffler_Roughness_png",
+      "/Game/Engines/Thai150cc/SM_Thai150_Game_Runtime/Textures/T_Thai150_Muffler_NormalGL.T_Thai150_Muffler_NormalGL",
+      "/Game/Engines/Thai150cc/SM_Thai150_Game_Runtime/Textures/T_Thai150_RacingDecal.T_Thai150_RacingDecal"
+    ],
+    "status": "imported"
+  },
+  {
+    "label": "River125cc",
+    "source": "..\\..\\..\\..\\..\\..\\Users\\com\\Desktop\\UE5.8.3\\Model\\Blender\\ThaiRiverRacer125cc_20261003\\exports\\PR_ThaiRiverRacer125cc_Game_LOD0.glb",
+    "sha256": "9a75477d4ed37d67f159b204f760746e8d01d608129c858a3310e506a7f39c39",
+    "destination": "/Game/Engines/River125cc",
+    "source_meshes": 12,
+    "source_nodes": [
+      {
+        "extras": {
+          "assembly": "AirFilter",
+          "bas_role": "Filter_BlackCore",
+          "bevel_width": 0
+        },
+        "mesh": 0,
+        "name": "SM_125_AirFilter_LOD0"
+      },
+      {
+        "extras": {
+          "assembly": "Carburetor",
+          "bas_role": "Intake_RubberManifold",
+          "bevel_width": 0.001
+        },
+        "mesh": 1,
+        "name": "SM_125_Carburetor_LOD0",
+        "translation": [
+          -0.14100000262260437,
+          0.2759999930858612,
+          0
+        ]
+      },
+      {
+        "extras": {
+          "assembly": "Cooling",
+          "bas_role": "Cooling_LeftHeadHose",
+          "bevel_width": 0
+        },
+        "mesh": 2,
+        "name": "SM_125_Cooling_LOD0"
+      },
+      {
+        "extras": {
+          "assembly": "Crankcase",
+          "bas_role": "Crankcase_CastBody",
+          "bevel_width": 0.008
+        },
+        "mesh": 3,
+        "name": "SM_125_Crankcase_LOD0"
+      },
+      {
+        "extras": {
+          "assembly": "CylinderBlock",
+          "bas_role": "Cylinder_BlackSleeve",
+          "bevel_width": 0
+        },
+        "mesh": 4,
+        "name": "SM_125_CylinderBlock_LOD0"
+      },
+      {
+        "extras": {
+          "assembly": "CylinderHead",
+          "bas_role": "Head_Gasket",
+          "bevel_width": 0.009
+        },
+        "mesh": 5,
+        "name": "SM_125_CylinderHead_LOD0",
+        "translation": [
+          0,
+          0.3449999988079071,
+          0
+        ]
+      },
+      {
+        "extras": {
+          "assembly": "Exhaust",
+          "bas_role": "Titanium_Exhaust",
+          "bevel_width": 0
+        },
+        "mesh": 6,
+        "name": "SM_125_Exhaust_LOD0"
+      },
+      {
+        "extras": {
+          "assembly": "Ignition",
+          "bas_role": "SparkPlug_Hex",
+          "bevel_width": 0.001
+        },
+        "mesh": 7,
+        "name": "SM_125_Ignition_LOD0",
+        "translation": [
+          -0.06700000166893005,
+          0.4320000112056732,
+          -0.006000000052154064
+        ]
+      },
+      {
+        "extras": {
+          "assembly": "Mounts",
+          "bas_role": "Mount_Front_Rail",
+          "bevel_width": 0.003
+        },
+        "mesh": 8,
+        "name": "SM_125_Mounts_LOD0",
+        "translation": [
+          0,
+          0.0430000014603138,
+          0.12200000137090683
+        ]
+      },
+      {
+        "extras": {
+          "assembly": "NumberPlate",
+          "bas_role": "Head_BlackNumberFascia",
+          "bevel_width": 0.007
+        },
+        "mesh": 9,
+        "name": "SM_125_NumberPlate_LOD0",
+        "translation": [
+          0,
+          0.39100000262260437,
+          0.10300000011920929
+        ]
+      },
+      {
+        "extras": {
+          "assembly": "RacingCover",
+          "bas_role": "Cover_OuterLip",
+          "bevel_width": 0.005
+        },
+        "mesh": 10,
+        "name": "SM_125_RacingCover_LOD0"
+      },
+      {
+        "extras": {
+          "assembly": "RearCover",
+          "bas_role": "RearCircularGasket",
+          "bevel_width": 0.001
+        },
+        "mesh": 11,
+        "name": "SM_125_RearCover_LOD0",
+        "translation": [
+          0,
+          0.1469999998807907,
+          -0.1080000028014183
+        ]
+      },
+      {
+        "children": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ],
+        "name": "PR_125_Game"
+      },
+      {
+        "extras": {
+          "owner": "phase:02_blockout"
+        },
+        "name": "SOCKET_125_CoolingIn",
+        "translation": [
+          -0.10700000077486038,
+          0.24799999594688416,
+          0.1509999930858612
+        ]
+      },
+      {
+        "extras": {
+          "owner": "phase:02_blockout"
+        },
+        "name": "SOCKET_125_CoolingOut",
+        "translation": [
+          0.12999999523162842,
+          0.28999999165534973,
+          0.08500000089406967
+        ]
+      },
+      {
+        "extras": {
+          "owner": "phase:02_blockout"
+        },
+        "name": "SOCKET_125_Exhaust",
+        "translation": [
+          0.125,
+          0.22200000286102295,
+          -0.05000000074505806
+        ]
+      },
+      {
+        "extras": {
+          "owner": "phase:02_blockout"
+        },
+        "name": "SOCKET_125_Ignition",
+        "translation": [
+          -0.06700000166893005,
+          0.4480000138282776,
+          -0.006000000052154064
+        ]
+      },
+      {
+        "extras": {
+          "owner": "phase:02_blockout"
+        },
+        "name": "SOCKET_125_Intake",
+        "translation": [
+          -0.16599999368190765,
+          0.2759999930858612,
+          0
+        ]
+      },
+      {
+        "extras": {
+          "owner": "phase:02_blockout"
+        },
+        "name": "SOCKET_125_Mount_Front",
+        "translation": [
+          -0.13699999451637268,
+          0.050999999046325684,
+          0.12200000137090683
+        ]
+      },
+      {
+        "extras": {
+          "owner": "phase:02_blockout"
+        },
+        "name": "SOCKET_125_Mount_Rear",
+        "translation": [
+          0.13899999856948853,
+          0.050999999046325684,
+          -0.12200000137090683
+        ]
+      }
+    ],
+    "meshes": [
+      {
+        "path": "/Game/Engines/River125cc/PR_ThaiRiverRacer125cc_Game_LOD0/StaticMeshes/SM_125_AirFilter_LOD0.SM_125_AirFilter_LOD0",
+        "extent_cm": [
+          8.75,
+          8.699999809265137,
+          8.699999809265137
+        ],
+        "materials": [
+          "/Game/Engines/River125cc/PR_ThaiRiverRacer125cc_Game_LOD0/Materials/M_125cc_Atlas4K.M_125cc_Atlas4K"
+        ]
+      },
+      {
+        "path": "/Game/Engines/River125cc/PR_ThaiRiverRacer125cc_Game_LOD0/StaticMeshes/SM_125_Carburetor_LOD0.SM_125_Carburetor_LOD0",
+        "extent_cm": [
+          9.287221431732178,
+          9.601202011108398,
+          11.174999713897705
+        ],
+        "materials": [
+          "/Game/Engines/River125cc/PR_ThaiRiverRacer125cc_Game_LOD0/Materials/M_125cc_Atlas4K.M_125cc_Atlas4K"
+        ]
+      },
+      {
+        "path": "/Game/Engines/River125cc/PR_ThaiRiverRacer125cc_Game_LOD0/StaticMeshes/SM_125_Cooling_LOD0.SM_125_Cooling_LOD0",
+        "extent_cm": [
+          20.000638008117676,
+          10.399999856948853,
+          11.59999942779541
+        ],
+        "materials": [
+          "/Game/Engines/River125cc/PR_ThaiRiverRacer125cc_Game_LOD0/Materials/M_125cc_Atlas4K.M_125cc_Atlas4K"
+        ]
+      },
+      {
+        "path": "/Game/Engines/River125cc/PR_ThaiRiverRacer125cc_Game_LOD0/StaticMeshes/SM_125_Crankcase_LOD0.SM_125_Crankcase_LOD0",
+        "extent_cm": [
+          16.413291931152344,
+          12.074999809265137,
+          9.824999809265137
+        ],
+        "materials": [
+          "/Game/Engines/River125cc/PR_ThaiRiverRacer125cc_Game_LOD0/Materials/M_125cc_Atlas4K.M_125cc_Atlas4K"
+        ]
+      },
+      {
+        "path": "/Game/Engines/River125cc/PR_ThaiRiverRacer125cc_Game_LOD0/StaticMeshes/SM_125_CylinderBlock_LOD0.SM_125_CylinderBlock_LOD0",
+        "extent_cm": [
+          12.34999942779541,
+          10.40000057220459,
+          6.27500057220459
+        ],
+        "materials": [
+          "/Game/Engines/River125cc/PR_ThaiRiverRacer125cc_Game_LOD0/Materials/M_125cc_Atlas4K.M_125cc_Atlas4K"
+        ]
+      },
+      {
+        "path": "/Game/Engines/River125cc/PR_ThaiRiverRacer125cc_Game_LOD0/StaticMeshes/SM_125_CylinderHead_LOD0.SM_125_CylinderHead_LOD0",
+        "extent_cm": [
+          12.300000190734863,
+          10.199999809265137,
+          4.927499771118164
+        ],
+        "materials": [
+          "/Game/Engines/River125cc/PR_ThaiRiverRacer125cc_Game_LOD0/Materials/M_125cc_Atlas4K.M_125cc_Atlas4K"
+        ]
+      },
+      {
+        "path": "/Game/Engines/River125cc/PR_ThaiRiverRacer125cc_Game_LOD0/StaticMeshes/SM_125_Exhaust_LOD0.SM_125_Exhaust_LOD0",
+        "extent_cm": [
+          30.729572772979736,
+          15.601327896118164,
+          23.492734909057617
+        ],
+        "materials": [
+          "/Game/Engines/River125cc/PR_ThaiRiverRacer125cc_Game_LOD0/Materials/M_125cc_Atlas4K.M_125cc_Atlas4K"
+        ]
+      },
+      {
+        "path": "/Game/Engines/River125cc/PR_ThaiRiverRacer125cc_Game_LOD0/StaticMeshes/SM_125_Ignition_LOD0.SM_125_Ignition_LOD0",
+        "extent_cm": [
+          10.300000190734863,
+          7.704249799251556,
+          12.279623031616211
+        ],
+        "materials": [
+          "/Game/Engines/River125cc/PR_ThaiRiverRacer125cc_Game_LOD0/Materials/M_125cc_Atlas4K.M_125cc_Atlas4K"
+        ]
+      },
+      {
+        "path": "/Game/Engines/River125cc/PR_ThaiRiverRacer125cc_Game_LOD0/StaticMeshes/SM_125_Mounts_LOD0.SM_125_Mounts_LOD0",
+        "extent_cm": [
+          16.300000190734863,
+          13.900000095367432,
+          3.6500003337860107
+        ],
+        "materials": [
+          "/Game/Engines/River125cc/PR_ThaiRiverRacer125cc_Game_LOD0/Materials/M_125cc_Atlas4K.M_125cc_Atlas4K"
+        ]
+      },
+      {
+        "path": "/Game/Engines/River125cc/PR_ThaiRiverRacer125cc_Game_LOD0/StaticMeshes/SM_125_NumberPlate_LOD0.SM_125_NumberPlate_LOD0",
+        "extent_cm": [
+          10.899999618530273,
+          1.2775001525878906,
+          3.0
+        ],
+        "materials": [
+          "/Game/Engines/River125cc/PR_ThaiRiverRacer125cc_Game_LOD0/Materials/M_125cc_Atlas4K.M_125cc_Atlas4K"
+        ]
+      },
+      {
+        "path": "/Game/Engines/River125cc/PR_ThaiRiverRacer125cc_Game_LOD0/StaticMeshes/SM_125_RacingCover_LOD0.SM_125_RacingCover_LOD0",
+        "extent_cm": [
+          12.989999294281006,
+          2.177499771118164,
+          7.539999723434448
+        ],
+        "materials": [
+          "/Game/Engines/River125cc/PR_ThaiRiverRacer125cc_Game_LOD0/Materials/M_125cc_Atlas4K.M_125cc_Atlas4K"
+        ]
+      },
+      {
+        "path": "/Game/Engines/River125cc/PR_ThaiRiverRacer125cc_Game_LOD0/StaticMeshes/SM_125_RearCover_LOD0.SM_125_RearCover_LOD0",
+        "extent_cm": [
+          8.399999618530273,
+          2.0,
+          8.400000095367432
+        ],
+        "materials": [
+          "/Game/Engines/River125cc/PR_ThaiRiverRacer125cc_Game_LOD0/Materials/M_125cc_Atlas4K.M_125cc_Atlas4K"
+        ]
+      }
+    ],
+    "materials": [
+      "/Game/Engines/River125cc/PR_ThaiRiverRacer125cc_Game_LOD0/Materials/M_125cc_Atlas4K.M_125cc_Atlas4K"
+    ],
+    "textures": [
+      "/Game/Engines/River125cc/PR_ThaiRiverRacer125cc_Game_LOD0/Textures/T_125_AO_4K-T_125_Roughness_4K-T_125_Metallic_4K.T_125_AO_4K-T_125_Roughness_4K-T_125_Metallic_4K",
+      "/Game/Engines/River125cc/PR_ThaiRiverRacer125cc_Game_LOD0/Textures/T_125_BaseColor_4K.T_125_BaseColor_4K",
+      "/Game/Engines/River125cc/PR_ThaiRiverRacer125cc_Game_LOD0/Textures/T_125_NormalGL_4K.T_125_NormalGL_4K"
+    ],
+    "status": "imported"
+  }
+]
